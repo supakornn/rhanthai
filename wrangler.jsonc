@@ -15,6 +15,7 @@
   },
   "env": {
     "production": {
+      "name": "rhanthai",
       "vars": {
         "PUBLIC_ORIGIN": "https://rhanthai.supakorn.me"
       },
