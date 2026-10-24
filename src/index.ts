@@ -1,16 +1,12 @@
-import { Elysia, t } from "elysia";
-import { CloudflareAdapter } from "elysia/adapter/cloudflare-worker";
+import { env } from "cloudflare:workers";
+import { createApp } from "./app";
+import { catalogue } from "./catalogue";
 
-export default new Elysia({ adapter: CloudflareAdapter, strictPath: true })
-  .onError(({ code, set }) => {
-    set.status = code === "VALIDATION" ? 400 : 500;
-    return {
-      error: { code: "INVALID_QUERY_PARAMETER", message: "Invalid query." },
-    };
-  })
-  .get("/api/v1/foods", () => ({ data: [] }), {
-    query: t.Object({
-      lang: t.Optional(t.Union([t.Literal("en"), t.Literal("th")])),
-    }),
-  })
-  .compile();
+export default createApp(
+  () => catalogue,
+  () => {
+    const origin = (env as unknown as { PUBLIC_ORIGIN: string }).PUBLIC_ORIGIN;
+    if (!origin) throw new Error("PUBLIC_ORIGIN must be configured");
+    return origin;
+  },
+);
