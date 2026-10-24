@@ -79,7 +79,7 @@ export function listFoods(
   // Avoid multiplying huge page values before checking against bounded totals.
   const offset =
     query.page > totalPages ? totalItems : (query.page - 1) * query.limit;
-  const sorted = [...foods].sort((a, b) =>
+  const sorted = foods.toSorted((a, b) =>
     a.id < b.id ? -1 : a.id > b.id ? 1 : 0,
   );
   return {

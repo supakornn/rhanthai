@@ -49,8 +49,10 @@ describe("deployment security boundaries", () => {
       steps: { uses?: string; [key: string]: unknown }[];
     }[]) {
       for (const step of job.steps) {
-        if (step.uses) expect(step.uses).toMatch(/@[a-f0-9]{40}$/);
         expect(step["continue-on-error"]).toBeUndefined();
+      }
+      for (const step of job.steps.filter((candidate) => candidate.uses)) {
+        expect(step.uses).toMatch(/@[a-f0-9]{40}$/);
       }
     }
     expect(workflow.on.pull_request_target).toBeUndefined();

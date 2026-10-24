@@ -44,25 +44,25 @@ describe("catalogue validation", () => {
     ],
   ])("rejects %s", async (_name, mutate) => {
     await save(mutate(food));
-    await expect(check()).rejects.toThrow();
+    await expect(check()).rejects.toThrow(Error);
   });
   it("rejects filename mismatch and duplicate IDs", async () => {
     await save(food, "different.json");
-    await expect(check()).rejects.toThrow();
+    await expect(check()).rejects.toThrow(Error);
     await save();
-    await expect(check()).rejects.toThrow();
+    await expect(check()).rejects.toThrow(Error);
   });
   it("rejects missing imports and stale bundled contents", async () => {
     await save();
-    await expect(validateCatalogue(root, [])).rejects.toThrow();
+    await expect(validateCatalogue(root, [])).rejects.toThrow(Error);
     await expect(
       validateCatalogue(root, [{ ...food, name: { en: "Stale", th: "เก่า" } }]),
-    ).rejects.toThrow();
+    ).rejects.toThrow(Error);
   });
   it("rejects unreferenced publication images", async () => {
     await save();
     await writeFile(join(root, "public/photos/orphan.png"), "bad");
-    await expect(check()).rejects.toThrow();
+    await expect(check()).rejects.toThrow(Error);
   });
 });
 
@@ -108,6 +108,6 @@ describe("photo validation", () => {
       ...patch,
     } as StoredFood["photos"][number];
     await save();
-    await expect(check()).rejects.toThrow();
+    await expect(check()).rejects.toThrow(Error);
   });
 });

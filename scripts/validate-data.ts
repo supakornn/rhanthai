@@ -25,7 +25,7 @@ export async function validateCatalogue(
   const directory = resolve(root, "data/foods");
   const files = (await readdir(directory))
     .filter((file) => file.endsWith(".json"))
-    .sort();
+    .toSorted();
   const seen = new Set<string>();
   const photos = new Set<string>();
   for (const filename of files) {

@@ -1,5 +1,11 @@
 import { describe, expect, it } from "vitest";
-import { findFood, listFoods, localizeFood, parseQuery } from "../../src/foods";
+import {
+  findFood,
+  listFoods,
+  localizeFood,
+  parseQuery,
+  QueryError,
+} from "../../src/foods";
 import type { StoredFood } from "../../src/schemas";
 
 const food: StoredFood = {
@@ -75,11 +81,17 @@ describe("query boundary", () => {
     "page=%201",
     "=x",
   ])("rejects invalid input: %s", (query) => {
-    expect(() => parseQuery(new URLSearchParams(query), true)).toThrow();
+    expect(() => parseQuery(new URLSearchParams(query), true)).toThrow(
+      QueryError,
+    );
   });
   it("rejects list-only parameters on detail requests", () => {
-    expect(() => parseQuery(new URLSearchParams("page=1"), false)).toThrow();
-    expect(() => parseQuery(new URLSearchParams("limit=1"), false)).toThrow();
+    expect(() => parseQuery(new URLSearchParams("page=1"), false)).toThrow(
+      QueryError,
+    );
+    expect(() => parseQuery(new URLSearchParams("limit=1"), false)).toThrow(
+      QueryError,
+    );
   });
 });
 

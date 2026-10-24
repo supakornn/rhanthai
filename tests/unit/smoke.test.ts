@@ -120,14 +120,14 @@ describe("deployment smoke checker", () => {
         fetchImpl: fakeApi({ malformed: true }),
         attempts: 1,
       }),
-    ).rejects.toThrow();
+    ).rejects.toThrow(Error);
     await expect(
       runSmoke("https://api.test", {
         fetchImpl: fakeApi(),
         attempts: 1,
         revision: "other",
       }),
-    ).rejects.toThrow();
+    ).rejects.toThrow(Error);
   });
   it("bounds retries and can recover from propagation failures", async () => {
     let calls = 0;
@@ -155,7 +155,7 @@ describe("deployment smoke checker", () => {
         attempts: 2,
         delayMs: 0,
       }),
-    ).rejects.toThrow();
+    ).rejects.toThrow(Error);
     expect(failures).toBe(2);
   });
   it("does not follow photo URLs to another origin", async () => {
@@ -164,11 +164,11 @@ describe("deployment smoke checker", () => {
         fetchImpl: fakeApi({ photo: "https://other.test/photo.png" }),
         attempts: 1,
       }),
-    ).rejects.toThrow();
+    ).rejects.toThrow(Error);
   });
   it("rejects insecure nonlocal base URLs", async () => {
-    await expect(
-      runSmoke("http://api.test", { attempts: 1 }),
-    ).rejects.toThrow();
+    await expect(runSmoke("http://api.test", { attempts: 1 })).rejects.toThrow(
+      Error,
+    );
   });
 });

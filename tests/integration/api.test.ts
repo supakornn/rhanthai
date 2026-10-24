@@ -24,7 +24,7 @@ describe("food API", () => {
       "pad-thai",
       "som-tam",
     ]);
-    expect(Object.keys(body.data[0] ?? {}).sort()).toEqual([
+    expect(Object.keys(body.data[0] ?? {}).toSorted()).toEqual([
       "description",
       "id",
       "name",
