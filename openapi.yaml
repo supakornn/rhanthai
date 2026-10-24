@@ -1,0 +1,264 @@
+openapi: 3.0.3
+info:
+  title: RhanThai API
+  version: 1.0.0
+  description: Public read-only Thai food catalogue. No API key required. English is the default language.
+servers:
+  - url: https://rhanthai.supakorn.me
+security: []
+paths:
+  /api/v1/foods:
+    get:
+      operationId: listFoods
+      summary: List Thai foods
+      description: Sorted by ASCII ID ascending. Unknown, empty, duplicate, or malformed query parameters return 400. Pages beyond the end return an empty data array.
+      parameters:
+        - $ref: "#/components/parameters/Language"
+        - name: page
+          in: query
+          description: Digits only; leading zeros allowed. No signs, decimals, whitespace, or exponents.
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 9007199254740991
+            default: 1
+        - name: limit
+          in: query
+          description: Digits only; leading zeros allowed.
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 20
+      responses:
+        "200":
+          description: Paginated food catalogue
+          headers:
+            Access-Control-Allow-Origin:
+              schema: { type: string, enum: ["*"] }
+            Cache-Control:
+              schema: { type: string, enum: [no-store] }
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/FoodList"
+        "400":
+          $ref: "#/components/responses/InvalidQuery"
+        "405":
+          $ref: "#/components/responses/MethodNotAllowed"
+        "500":
+          $ref: "#/components/responses/InternalError"
+    head:
+      operationId: headFoods
+      summary: Same query rules and response headers/status as GET, without a body
+      parameters:
+        - $ref: "#/components/parameters/Language"
+        - name: page
+          in: query
+          schema:
+            { type: integer, minimum: 1, maximum: 9007199254740991, default: 1 }
+        - name: limit
+          in: query
+          schema: { type: integer, minimum: 1, maximum: 100, default: 20 }
+      responses:
+        "200": { description: GET headers with no body }
+        "400": { description: Invalid query; no body }
+        "500": { description: Unexpected error; no body }
+    options:
+      operationId: optionsFoods
+      summary: CORS preflight
+      responses:
+        "204":
+          $ref: "#/components/responses/Preflight"
+  /api/v1/foods/{id}:
+    parameters:
+      - name: id
+        in: path
+        required: true
+        description: Stable lowercase ASCII slug, unchanged across languages.
+        schema:
+          type: string
+          example: khao-soi
+    get:
+      operationId: getFood
+      summary: Get a Thai food
+      description: Only lang is accepted. Validate the query before looking up the ID. Trailing slashes return 404.
+      parameters:
+        - $ref: "#/components/parameters/Language"
+      responses:
+        "200":
+          description: Localized food
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/FoodDetail"
+        "400":
+          $ref: "#/components/responses/InvalidQuery"
+        "404":
+          description: Unknown food ID
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Error"
+              example:
+                error: { code: FOOD_NOT_FOUND, message: Food not found. }
+        "405":
+          $ref: "#/components/responses/MethodNotAllowed"
+        "500":
+          $ref: "#/components/responses/InternalError"
+    head:
+      operationId: headFood
+      summary: Same query rules and response headers/status as GET, without a body
+      parameters:
+        - $ref: "#/components/parameters/Language"
+      responses:
+        "200": { description: GET headers with no body }
+        "400": { description: Invalid query; no body }
+        "404": { description: Unknown food; no body }
+        "500": { description: Unexpected error; no body }
+    options:
+      operationId: optionsFood
+      summary: CORS preflight
+      responses:
+        "204":
+          $ref: "#/components/responses/Preflight"
+components:
+  parameters:
+    Language:
+      name: lang
+      in: query
+      description: Case-sensitive. Localizes name, description, and photo alt only. Unsupported values are rejected, not replaced.
+      schema:
+        type: string
+        enum: [en, th]
+        default: en
+  schemas:
+    Food:
+      type: object
+      required: [id, name, description, photos]
+      properties:
+        id:
+          type: string
+          pattern: "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          example: khao-soi
+        name:
+          type: string
+          pattern: '\S'
+          example: Khao soi
+        description:
+          type: string
+          pattern: '\S'
+          example: A northern Thai coconut curry noodle soup topped with crispy noodles.
+        photos:
+          type: array
+          description: Ordered photos; empty if no verified image is available. First photo is the default display image.
+          items:
+            $ref: "#/components/schemas/Photo"
+    Photo:
+      type: object
+      required: [url, width, height, alt, credit, sourceUrl, license]
+      properties:
+        url:
+          type: string
+          format: uri
+          pattern: "^https://"
+        width: { type: integer, minimum: 1 }
+        height: { type: integer, minimum: 1 }
+        alt: { type: string, pattern: '\S' }
+        credit:
+          type: object
+          required: [name, url]
+          properties:
+            name: { type: string, pattern: '\S' }
+            url:
+              {
+                type: string,
+                format: uri,
+                pattern: "^https://",
+                nullable: true,
+              }
+        sourceUrl: { type: string, format: uri, pattern: "^https://" }
+        license:
+          type: object
+          required: [name, url]
+          properties:
+            name: { type: string, pattern: '\S' }
+            url: { type: string, format: uri, pattern: "^https://" }
+    FoodDetail:
+      type: object
+      required: [data]
+      properties:
+        data:
+          $ref: "#/components/schemas/Food"
+    FoodList:
+      type: object
+      required: [data, pagination]
+      properties:
+        data:
+          type: array
+          items:
+            $ref: "#/components/schemas/Food"
+        pagination:
+          type: object
+          required: [page, limit, totalItems, totalPages]
+          properties:
+            page: { type: integer, minimum: 1, maximum: 9007199254740991 }
+            limit: { type: integer, minimum: 1, maximum: 100 }
+            totalItems: { type: integer, minimum: 0 }
+            totalPages: { type: integer, minimum: 0 }
+    Error:
+      type: object
+      required: [error]
+      properties:
+        error:
+          type: object
+          required: [code, message]
+          properties:
+            code:
+              type: string
+              enum:
+                [
+                  INVALID_QUERY_PARAMETER,
+                  FOOD_NOT_FOUND,
+                  NOT_FOUND,
+                  METHOD_NOT_ALLOWED,
+                  INTERNAL_SERVER_ERROR,
+                ]
+            message:
+              type: string
+              description: English diagnostic text. Clients must use code rather than parse message wording.
+  responses:
+    InvalidQuery:
+      description: Unknown, repeated, empty, or malformed query parameter
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+          example:
+            error:
+              {
+                code: INVALID_QUERY_PARAMETER,
+                message: "lang must be one of: en, th.",
+              }
+    MethodNotAllowed:
+      description: Unsupported method on a known API route
+      headers:
+        Allow:
+          schema: { type: string, enum: ["GET, HEAD, OPTIONS"] }
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+    InternalError:
+      description: Unexpected application failure. Cloudflare platform-generated errors may not use this envelope.
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/Error"
+    Preflight:
+      description: No body; wildcard CORS without credentials
+      headers:
+        Access-Control-Allow-Origin:
+          schema: { type: string, enum: ["*"] }
+        Access-Control-Allow-Methods:
+          schema: { type: string, enum: ["GET, HEAD, OPTIONS"] }

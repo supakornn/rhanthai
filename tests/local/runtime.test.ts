@@ -1,6 +1,10 @@
 import { afterAll, beforeAll, describe, expect, it } from "vitest";
 import { type Unstable_DevWorker, unstable_dev } from "wrangler";
 
+import { createContractValidators } from "../../scripts/api-contract";
+import { runSmoke } from "../../scripts/smoke";
+
+const validators = await createContractValidators();
 let server: Unstable_DevWorker;
 beforeAll(async () => {
   server = await unstable_dev("src/index.ts", {
@@ -24,6 +28,13 @@ afterAll(async () => {
 });
 
 describe("real Wrangler routing", () => {
+  it("passes the deployment smoke checker against a real local Worker", async () => {
+    const result = await runSmoke(`http://${server.address}:${server.port}`, {
+      attempts: 1,
+      revision: "local",
+    });
+    expect(result).toEqual({ photoChecked: false });
+  });
   it("serves synthetic photo bytes directly rather than through the API", async () => {
     const response = await server.fetch("/photos/pixel.png");
     expect(response.status).toBe(200);
@@ -34,7 +45,13 @@ describe("real Wrangler routing", () => {
   it("serves the API alongside assets without SPA fallback", async () => {
     const response = await server.fetch("/api/v1/foods");
     expect(response.status).toBe(200);
-    expect(await response.json()).toMatchObject({ data: expect.any(Array) });
+    const body = await response.json();
+    expect(
+      validators.FoodList(body),
+      JSON.stringify(validators.FoodList.errors),
+    ).toBe(true);
+    const detail = await server.fetch("/api/v1/foods/khao-soi?lang=th");
+    expect(validators.FoodDetail(await detail.json())).toBe(true);
     const missing = await server.fetch("/photos/missing.png");
     expect(missing.status).toBe(404);
     expect(missing.headers.get("content-type")).not.toContain("text/html");

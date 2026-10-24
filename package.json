@@ -19,8 +19,9 @@
     "test:unit": "vitest run --config vitest.unit.config.ts",
     "test:integration": "bun run build && vitest run --config vitest.config.ts",
     "build": "wrangler deploy --env= --dry-run --outdir dist",
+    "build:production": "wrangler deploy --env production --dry-run --outdir dist-production",
     "smoke": "bun scripts/smoke.ts",
-    "deploy": "wrangler deploy --env production --message $GITHUB_SHA"
+    "deploy": "wrangler deploy --env production"
   },
   "dependencies": {
     "@sinclair/typebox": "0.34.52",
@@ -32,6 +33,8 @@
     "@cloudflare/vitest-plugin": "1.4.7",
     "@cloudflare/workers-types": "5.20261024.1",
     "@types/node": "26.6.5",
+    "ajv": "8.20.0",
+    "ajv-formats": "3.0.1",
     "image-size": "2.0.4",
     "typescript": "7.0.2",
     "vitest": "5.0.5",
