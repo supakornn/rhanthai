@@ -3,7 +3,7 @@ import { describe, expect, it } from "vitest";
 
 const api = (env as unknown as { API: Fetcher }).API;
 const get = (path: string, init?: RequestInit) =>
-  api.fetch("https://example.test" + path, init);
+  api.fetch(`https://example.test${path}`, init);
 
 describe("food API", () => {
   it("lists the catalogue with defaults and exact public field names", async () => {
@@ -69,7 +69,7 @@ describe("food API", () => {
     "page=1&page=2",
     "page=1e2",
   ])("rejects query %s", async (query) => {
-    const response = await get("/api/v1/foods?" + query);
+    const response = await get(`/api/v1/foods?${query}`);
     expect(response.status).toBe(400);
     expect(await response.json()).toMatchObject({
       error: { code: "INVALID_QUERY_PARAMETER" },
