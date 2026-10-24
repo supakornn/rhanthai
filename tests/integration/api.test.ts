@@ -1,5 +1,8 @@
 import { env } from "cloudflare:workers";
 import { describe, expect, it } from "vitest";
+import { catalogue } from "../../src/catalogue";
+
+const ids = catalogue.map((food) => food.id).toSorted();
 
 const api = (env as unknown as { API: Fetcher }).API;
 const get = (path: string, init?: RequestInit) =>
@@ -16,14 +19,10 @@ describe("food API", () => {
     expect(body.pagination).toEqual({
       page: 1,
       limit: 20,
-      totalItems: 3,
-      totalPages: 1,
+      totalItems: catalogue.length,
+      totalPages: Math.ceil(catalogue.length / 20),
     });
-    expect(body.data.map((food) => food.id)).toEqual([
-      "khao-soi",
-      "pad-thai",
-      "som-tam",
-    ]);
+    expect(body.data.map((food) => food.id)).toEqual(ids.slice(0, 20));
     expect(Object.keys(body.data[0] ?? {}).toSorted()).toEqual([
       "description",
       "id",
@@ -43,20 +42,70 @@ describe("food API", () => {
     expect(th.data.id).toBe(en.data.id);
     expect(th.data.photos).toEqual([]);
     const list = (await (
-      await get("/api/v1/foods?lang=th&limit=1")
+      await get(
+        `/api/v1/foods?lang=th&limit=1&page=${ids.indexOf("khao-soi") + 1}`,
+      )
     ).json()) as { data: unknown[] };
     expect(list.data[0]).toEqual(th.data);
   });
   it("paginates and returns an empty beyond-end page", async () => {
     const response = await get("/api/v1/foods?page=2&limit=2");
     expect(await response.json()).toMatchObject({
-      data: [{ id: "som-tam" }],
-      pagination: { totalPages: 2 },
+      data: ids.slice(2, 4).map((id) => ({ id })),
+      pagination: {
+        page: 2,
+        limit: 2,
+        totalItems: catalogue.length,
+        totalPages: Math.ceil(catalogue.length / 2),
+      },
     });
     const beyond = await get("/api/v1/foods?page=9007199254740991&limit=100");
     expect(await beyond.json()).toMatchObject({
       data: [],
-      pagination: { totalItems: 3 },
+      pagination: { totalItems: catalogue.length },
+    });
+  });
+  it("traverses every page without duplicates, omissions, or research metadata", async () => {
+    const actual: string[] = [];
+    const limit = 7;
+    const pages = Math.ceil(catalogue.length / limit);
+    for (let page = 1; page <= pages; page++) {
+      const response = await get(`/api/v1/foods?page=${page}&limit=${limit}`);
+      expect(response.status).toBe(200);
+      const body = (await response.json()) as {
+        data: { id: string }[];
+        pagination: unknown;
+      };
+      expect(body.pagination).toEqual({
+        page,
+        limit,
+        totalItems: catalogue.length,
+        totalPages: pages,
+      });
+      expect(body.data.map((food) => food.id)).toEqual(
+        ids.slice((page - 1) * limit, page * limit),
+      );
+      for (const food of body.data) {
+        expect(Object.keys(food).toSorted()).toEqual([
+          "description",
+          "id",
+          "name",
+          "photos",
+        ]);
+      }
+      actual.push(...body.data.map((food) => food.id));
+    }
+    expect(actual).toEqual(ids);
+    expect(new Set(actual).size).toBe(catalogue.length);
+    const beyond = await get(`/api/v1/foods?page=${pages + 1}&limit=${limit}`);
+    expect(await beyond.json()).toEqual({
+      data: [],
+      pagination: {
+        page: pages + 1,
+        limit,
+        totalItems: catalogue.length,
+        totalPages: pages,
+      },
     });
   });
   it.each([
