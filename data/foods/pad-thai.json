@@ -8,5 +8,24 @@
     "en": "Stir-fried rice noodles with a tamarind-based sauce, commonly served with bean sprouts, lime, and crushed peanuts.",
     "th": "อาหารเส้นที่นำเส้นจันท์หรือเส้นเล็กมาผัดกับซอสมะขามเปียก มักเสิร์ฟพร้อมถั่วงอก มะนาว และถั่วลิสงบด"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/pad-thai.webp",
+      "width": 1280,
+      "height": 960,
+      "alt": {
+        "en": "Pad thai topped with crushed peanuts, served with bean sprouts and a lime wedge on a white plate.",
+        "th": "ผัดไทยโรยถั่วลิสงบด เสิร์ฟพร้อมถั่วงอกและมะนาวบนจานสีขาว"
+      },
+      "credit": {
+        "name": "Pad Thai in Thailand — Douglas Perkins (resized and converted to WebP)",
+        "url": "https://commons.wikimedia.org/wiki/User:Douglaspperkins"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pad_Thai_in_Thailand.jpg",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    }
+  ]
 }

@@ -1,5 +1,6 @@
 import { env } from "cloudflare:workers";
 import { describe, expect, it } from "vitest";
+import type { Food } from "../../src/schemas";
 
 const api = (env as unknown as { API: Fetcher }).API;
 const get = (path: string, init?: RequestInit) =>
@@ -33,7 +34,7 @@ describe("food API", () => {
   });
   it("returns localized detail and the same shape in lists", async () => {
     const en = (await (await get("/api/v1/foods/khao-soi")).json()) as {
-      data: { id: string; name: string; photos: unknown[] };
+      data: Food;
     };
     const th = (await (
       await get("/api/v1/foods/khao-soi?lang=th")
@@ -41,12 +42,51 @@ describe("food API", () => {
     expect(en.data.name).toBe("Khao soi");
     expect(th.data.name).toBe("ข้าวซอย");
     expect(th.data.id).toBe(en.data.id);
-    expect(th.data.photos).toEqual([]);
+    expect(th.data.photos).toHaveLength(1);
+    expect(th.data.photos[0]?.alt).not.toBe(en.data.photos[0]?.alt);
     const list = (await (
       await get("/api/v1/foods?lang=th&limit=1")
     ).json()) as { data: unknown[] };
     expect(list.data[0]).toEqual(th.data);
   });
+  it.each(["khao-soi", "pad-thai", "som-tam"])(
+    "includes a credited, localized photo for %s",
+    async (id) => {
+      const en = (await (await get(`/api/v1/foods/${id}`)).json()) as {
+        data: Food;
+      };
+      const th = (await (
+        await get(`/api/v1/foods/${id}?lang=th`)
+      ).json()) as typeof en;
+
+      expect(en.data.photos).toHaveLength(1);
+      expect(th.data.photos).toHaveLength(1);
+
+      const photo = en.data.photos[0];
+      const translated = th.data.photos[0];
+
+      expect(photo).toMatchObject({
+        url: `https://rhanthai.supakorn.me/photos/${id}.webp`,
+        width: 1280,
+        height: 960,
+        credit: {
+          name: expect.any(String),
+          url: expect.stringMatching(/^https:\/\//),
+        },
+        sourceUrl: expect.stringMatching(/^https:\/\/commons.wikimedia.org\//),
+        license: {
+          name: expect.stringMatching(/^CC BY /),
+          url: expect.stringMatching(
+            /^https:\/\/creativecommons.org\/licenses\/by\//,
+          ),
+        },
+      });
+      expect(photo?.alt).toMatch(/[A-Za-z]/);
+      expect(translated?.alt).toMatch(/[ก-๙]/);
+      expect(translated).toEqual({ ...photo, alt: translated?.alt });
+    },
+  );
+
   it("paginates and returns an empty beyond-end page", async () => {
     const response = await get("/api/v1/foods?page=2&limit=2");
     expect(await response.json()).toMatchObject({

@@ -1,0 +1,53 @@
+{
+  "verifiedOn": "2026-10-31",
+  "verification": "Consulted each Wikimedia Commons file description and imageinfo extmetadata (Artist, LicenseShortName, LicenseUrl, AttributionRequired). Downloaded original bytes and matched SHA-1 to Commons imageinfo. Visually inspected each published derivative.",
+  "reuse": "CC BY permits redistribution and adaptation with attribution and a license link. API credit.name includes the original title, creator, and notice of resizing/WebP conversion. Consumers must retain attribution and license information.",
+  "transformation": "cwebp 1.6.0 -q 82 -m 6 -metadata none -resize 1280 960 ORIGINAL.jpg -o FOOD.webp; original aspect ratio preserved, no cropping; embedded metadata including GPS removed.",
+  "photos": [
+    {
+      "foodId": "khao-soi",
+      "title": "Khao Soi 01",
+      "creator": "Douglas Perkins",
+      "creatorUrl": "https://commons.wikimedia.org/wiki/User:Douglaspperkins",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_Soi_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Khao_Soi_01.jpg",
+      "originalSha1": "bf4958210549e5bfe56de506a158d59a25b8d59c",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "publishedPath": "/photos/khao-soi.webp",
+      "publishedSha256": "b803caf61d3a273ff935bc27fd6acc8e6bc3e6f48ee5557e672ef2863c3979b0"
+    },
+    {
+      "foodId": "pad-thai",
+      "title": "Pad Thai in Thailand",
+      "creator": "Douglas Perkins",
+      "creatorUrl": "https://commons.wikimedia.org/wiki/User:Douglaspperkins",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pad_Thai_in_Thailand.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Pad_Thai_in_Thailand.jpg",
+      "originalSha1": "07abf1c2bd93291c75dffa4a8d5e7bc3449a0f41",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "publishedPath": "/photos/pad-thai.webp",
+      "publishedSha256": "0f767bf3dac7da87eeb61f686f5bf555cff7c761758a657c81c2f8e5aef9d0e6"
+    },
+    {
+      "foodId": "som-tam",
+      "title": "Som tam",
+      "creator": "lazy fri13th",
+      "creatorUrl": "https://www.flickr.com/photos/fri13th/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Som_tam.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Som_tam.jpg",
+      "originalSha1": "7bb73219cd84ea856ebdb0b4c7f216ea75a02bc6",
+      "license": {
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      },
+      "publishedPath": "/photos/som-tam.webp",
+      "publishedSha256": "4f6fa716ad900b57c4805d8e55888c2e578e54ee887990d158d2fb5b823d8677"
+    }
+  ]
+}
