@@ -1,6 +1,7 @@
 import { env } from "cloudflare:workers";
 import { describe, expect, it } from "vitest";
 import { catalogue } from "../../src/catalogue";
+import type { Food } from "../../src/schemas";
 
 const ids = catalogue.map((food) => food.id).toSorted();
 
@@ -32,7 +33,7 @@ describe("food API", () => {
   });
   it("returns localized detail and the same shape in lists", async () => {
     const en = (await (await get("/api/v1/foods/khao-soi")).json()) as {
-      data: { id: string; name: string; photos: unknown[] };
+      data: Food;
     };
     const th = (await (
       await get("/api/v1/foods/khao-soi?lang=th")
@@ -40,7 +41,22 @@ describe("food API", () => {
     expect(en.data.name).toBe("Khao soi");
     expect(th.data.name).toBe("ข้าวซอย");
     expect(th.data.id).toBe(en.data.id);
-    expect(th.data.photos).toEqual([]);
+    expect(th.data.photos).toHaveLength(1);
+    const stored = catalogue.find((food) => food.id === "khao-soi");
+    if (!stored) throw new Error("Missing khao soi");
+    expect(en.data.photos).toEqual(
+      stored.photos.map(({ path, alt, ...metadata }) => ({
+        ...metadata,
+        url: `https://rhanthai.supakorn.me${path}`,
+        alt: alt.en,
+      })),
+    );
+    expect(th.data.photos).toEqual(
+      en.data.photos.map((photo, index) => ({
+        ...photo,
+        alt: stored.photos[index]?.alt.th,
+      })),
+    );
     const list = (await (
       await get(
         `/api/v1/foods?lang=th&limit=1&page=${ids.indexOf("khao-soi") + 1}`,

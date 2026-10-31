@@ -8,5 +8,24 @@
     "en": "Spiced fried chicken with a crisp coating, commonly served with fried shallots and sticky rice.",
     "th": "ไก่หมักเครื่องเทศทอดจนผิวกรอบ มักเสิร์ฟกับหอมเจียวและข้าวเหนียว"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/gai-tod-hat-yai.jpg",
+      "width": 960,
+      "height": 540,
+      "alt": {
+        "en": "Hat Yai fried chicken pieces topped with fried shallots",
+        "th": "ไก่ทอดหาดใหญ่โรยหอมเจียว"
+      },
+      "credit": {
+        "name": "Hatyai-style-fried chicken (ไก่ทอดหาดใหญ่) (48908712316).jpg — Vee Satayamas from Bangkok, Thailand. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Hatyai-style-fried_chicken_(%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88)_(48908712316).jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hatyai-style-fried_chicken_(%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88)_(48908712316).jpg",
+      "license": {
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      }
+    }
+  ]
 }

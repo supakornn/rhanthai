@@ -8,5 +8,24 @@
     "en": "Noodles in a dark, richly seasoned broth, commonly served with meat, meatballs and herbs.",
     "th": "ก๋วยเตี๋ยวน้ำซุปสีเข้มรสจัด มักใส่เนื้อสัตว์ ลูกชิ้น และผักสมุนไพร"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/kuai-tiao-ruea.jpg",
+      "width": 960,
+      "height": 642,
+      "alt": {
+        "en": "Boat noodles with meat and herbs in a deep bowl",
+        "th": "ก๋วยเตี๋ยวเรือใส่เนื้อและผักในชามลึก"
+      },
+      "credit": {
+        "name": "Boat noodles.jpg — Flickr user Alpha. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Boat_noodles.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boat_noodles.jpg",
+      "license": {
+        "name": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    }
+  ]
 }

@@ -8,5 +8,24 @@
     "en": "Crisp pastry parcels with a spiced savoury filling, often made with chicken.",
     "th": "แป้งทอดกรอบห่อไส้ปรุงเครื่องเทศ มักใช้ไก่เป็นส่วนผสม"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/kari-pap.jpg",
+      "width": 960,
+      "height": 636,
+      "alt": {
+        "en": "Curry puffs with one cut open to show the filling",
+        "th": "กะหรี่ปั๊บพร้อมชิ้นผ่าครึ่งให้เห็นไส้"
+      },
+      "credit": {
+        "name": "Karipap Chiang Mai.jpg — Takeaway.. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Karipap_Chiang_Mai.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karipap_Chiang_Mai.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

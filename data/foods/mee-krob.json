@@ -8,5 +8,24 @@
     "en": "Crisp fried rice vermicelli tossed in a sweet-sour glaze with aromatic citrus notes.",
     "th": "เส้นหมี่ทอดกรอบคลุกซอสรสเปรี้ยวหวานที่มีกลิ่นหอมของส้ม"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/mee-krob.jpg",
+      "width": 720,
+      "height": 960,
+      "alt": {
+        "en": "Crisp fine noodles topped with herbs and sliced chili",
+        "th": "หมี่กรอบโรยสมุนไพรและพริกหั่น"
+      },
+      "credit": {
+        "name": "Mi krop - Bangkok - 2017-04-29 (004).jpg — Iudexvivorum. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Mi_krop_-_Bangkok_-_2017-04-29_(004).jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mi_krop_-_Bangkok_-_2017-04-29_(004).jpg",
+      "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    }
+  ]
 }

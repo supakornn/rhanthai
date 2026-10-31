@@ -8,5 +8,24 @@
     "en": "Noodle soup coloured pink by a fermented tofu sauce, with assorted seafood and other toppings.",
     "th": "ก๋วยเตี๋ยวน้ำซอสเต้าหู้ยี้สีชมพู ใส่อาหารทะเลและเครื่องต่าง ๆ"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/yen-ta-fo.jpg",
+      "width": 960,
+      "height": 720,
+      "alt": {
+        "en": "Wide noodles and assorted toppings in pink yen ta fo broth",
+        "th": "เย็นตาโฟเส้นใหญ่ใส่เครื่องในน้ำซุปสีชมพู"
+      },
+      "credit": {
+        "name": "2019 01 Yen tafo.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:2019_01_Yen_tafo.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_01_Yen_tafo.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
 }

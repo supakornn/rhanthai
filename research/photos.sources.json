@@ -1,0 +1,1447 @@
+[
+  {
+    "foodId": "bua-loi",
+    "path": "/photos/bua-loi.jpg",
+    "title": "Bua loi - 2009-08-01 - 001.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bua_loi_-_2009-08-01_-_001.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Bua_loi_-_2009-08-01_-_001.jpg",
+    "author": "Alpha",
+    "license": {
+      "name": "CC BY-SA 2.0",
+      "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "6d57ba05d49f2c3fdfcc2855b7b9aa9b643db78f",
+    "sha256": "4c741c9439933d318afdcb4f9a245e96f59de010c7c478adcb4d48512a5dc451",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Bua loi (บัวลอย). Visual description: Bua loi rice-flour dumplings in coconut milk with a spoon."
+  },
+  {
+    "foodId": "chu-chi-pla",
+    "path": "/photos/chu-chi-pla.jpg",
+    "title": "Chuchi pla thu sot.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chuchi_pla_thu_sot.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Chuchi_pla_thu_sot.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "9283e14591621bf3e4f7e3e58041f2520e290702",
+    "sha256": "efbb7e80e2061ff8633c32f0e850115d7e0a15a5ca490d86056c5a14eb367599",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Chu chi pla (ฉู่ฉี่ปลา). Visual description: Whole fish in chu chi curry sauce on an oval serving dish."
+  },
+  {
+    "foodId": "foi-thong",
+    "path": "/photos/foi-thong.jpg",
+    "title": "Foi thong.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foi_thong.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Foi_thong.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "d5e2620f2ab5cd8d97543e08582123d6e44653f8",
+    "sha256": "5d5a715044af5e678ccbca8abc8e513d72f4b51fa54f85342c036f70a1c3230b",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Foi thong (ฝอยทอง). Visual description: Golden foi thong egg-yolk threads on a small plate."
+  },
+  {
+    "foodId": "gaeng-hang-le",
+    "path": "/photos/gaeng-hang-le.jpg",
+    "title": "Kaeng hangle.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaeng_hangle.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Kaeng_hangle.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "12a10d904dbb3a4f82d17cb7fc3d3fe78acf7256",
+    "sha256": "548705ca49329c092a248ad39d6e104da17da7f6f392462642c6ff4429741c87",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gaeng hang le (แกงฮังเล). Visual description: Gaeng hang le pork curry in a small bowl beside rice."
+  },
+  {
+    "foodId": "gaeng-jued",
+    "path": "/photos/gaeng-jued.jpg",
+    "title": "Tom jued tahoo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_jued_tahoo.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tom_jued_tahoo.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "d7e9ac98babc2bcf378b5cf38ee5e25c73380d6f",
+    "sha256": "b4d2233d5560be75e60579c1d7536131d22a6cdec1910f6321be192ae498bc32",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gaeng jued (แกงจืด). Visual description: Clear gaeng jued soup with tofu and green vegetables."
+  },
+  {
+    "foodId": "gaeng-kari",
+    "path": "/photos/gaeng-kari.jpg",
+    "title": "Kaeng kari kai.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaeng_kari_kai.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kaeng_kari_kai.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "afb2cfdba14c2b60ddff2e636326cb682c1170b2",
+    "sha256": "a5a16e71e50c3fbb269a789d5a715c2c16c7e5cb7505466410747943f718b6e3",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gaeng kari (แกงกะหรี่). Visual description: Chicken and potato pieces in yellow curry."
+  },
+  {
+    "foodId": "gaeng-khanun",
+    "path": "/photos/gaeng-khanun.jpg",
+    "title": "Kaeng kanun.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaeng_kanun.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Kaeng_kanun.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "b222443d74b64496242fb35491bf8e694e769c8b",
+    "sha256": "04fa51b3aceeebbbdc8764c7c6dda66fad37b15a759292cac7aaaf49f95c4e04",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gaeng khanun (แกงขนุน). Visual description: Young jackfruit curry with vegetables on a plate."
+  },
+  {
+    "foodId": "gaeng-khiao-wan",
+    "path": "/photos/gaeng-khiao-wan.jpg",
+    "title": "Thai green chicken curry and roti.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thai_green_chicken_curry_and_roti.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Thai_green_chicken_curry_and_roti.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "f758581b11bae1551403e955f210d1be49e7b692",
+    "sha256": "631f470f158524bc7b9da602807b4908a2701697fc5b18b3780a129913ce87d7",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gaeng khiao wan (แกงเขียวหวาน). Visual description: Green chicken curry in a bowl beside pieces of roti."
+  },
+  {
+    "foodId": "gaeng-liang",
+    "path": "/photos/gaeng-liang.jpg",
+    "title": "แกงเลียง.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B9%81%E0%B8%81%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%87.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%E0%B9%81%E0%B8%81%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%87.jpg",
+    "author": "Phuphiphat Phumi",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "184806b3e785be358c8863e9b60968037c49af66",
+    "sha256": "cfe491c6fa854213c51de665204098e6c3d32d2e4ccd9a6738ec589cdee8b514",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gaeng liang (แกงเลียง). Visual description: Gaeng liang soup with shrimp and mixed vegetables."
+  },
+  {
+    "foodId": "gaeng-massaman",
+    "path": "/photos/gaeng-massaman.jpg",
+    "title": "Gaeng massaman, restaurant tailandés, Xàbia.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaeng_massaman,_restaurant_tailand%C3%A9s,_X%C3%A0bia.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Gaeng_massaman%2C_restaurant_tailand%C3%A9s%2C_X%C3%A0bia.jpg",
+    "author": "Joanbanjo",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "1d683a1259b714c7d302a081941e9e6895f9f9c6",
+    "sha256": "5e06a8365d620801883f59a813ab6b2209a61484a60fe6938a9b7efee2d5d3c3",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gaeng massaman (แกงมัสมั่น). Visual description: Massaman curry topped with nuts on a white plate."
+  },
+  {
+    "foodId": "gaeng-pa",
+    "path": "/photos/gaeng-pa.jpg",
+    "title": "Fish Jungle Curry (8644200729).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fish_Jungle_Curry_(8644200729).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Fish_Jungle_Curry_%288644200729%29.jpg",
+    "author": "Charles Haynes",
+    "license": {
+      "name": "CC BY-SA 2.0",
+      "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "8b627ca5e2c83080c4a5dea9bcdf6053a1e71cde",
+    "sha256": "6e9ce3d6e7018158c2e588bbd010d7b07598cbfbd17e5c19dd422a6aadc3981a",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "The file identifies fish jungle curry. This serving is plated over rice with fresh herbs and lime; it is not the unrelated northern kaeng phak wan image returned by the initial search."
+  },
+  {
+    "foodId": "gaeng-phet",
+    "path": "/photos/gaeng-phet.jpg",
+    "title": "Kaeng phet mu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaeng_phet_mu.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kaeng_phet_mu.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "3a32f4282ba1df6750cfec9b7001b8e33ba8e798",
+    "sha256": "120c567c46b9e6204b131282f2258cb09a3c7da70b15da06a974dd45baaf2dd4",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gaeng phet (แกงเผ็ด). Visual description: Red pork curry topped with sliced chili and herbs."
+  },
+  {
+    "foodId": "gaeng-som",
+    "path": "/photos/gaeng-som.jpg",
+    "title": "Kaeng som kung.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaeng_som_kung.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kaeng_som_kung.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "4fbdd60befe84e45ef5230142890e07d2a56c0f4",
+    "sha256": "a9a2c88bd19209703175726aa05eefa56afdd2564d71d6b070c8dfe6f155bcf5",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gaeng som (แกงส้ม). Visual description: Sour orange curry with shrimp and vegetables."
+  },
+  {
+    "foodId": "gai-pad-met-mamuang",
+    "path": "/photos/gai-pad-met-mamuang.jpg",
+    "title": "Cashewchickenphoto.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cashewchickenphoto.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Cashewchickenphoto.jpg",
+    "author": "Simon Law from Montréal, QC, Canada",
+    "license": {
+      "name": "CC BY-SA 2.0",
+      "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "7a27d18ca7bdac984befac5085c9ae75726d6817",
+    "sha256": "4894cc63009e1d67eb2caa720f7a8efd3f45ecab4729217776756640479a1c21",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gai pad met mamuang (ไก่ผัดเม็ดมะม่วง). Visual description: Chicken stir-fried with cashews and colorful vegetables."
+  },
+  {
+    "foodId": "gai-tod-hat-yai",
+    "path": "/photos/gai-tod-hat-yai.jpg",
+    "title": "Hatyai-style-fried chicken (ไก่ทอดหาดใหญ่) (48908712316).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hatyai-style-fried_chicken_(%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88)_(48908712316).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hatyai-style-fried_chicken_%28%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%29_%2848908712316%29.jpg",
+    "author": "Vee Satayamas from Bangkok, Thailand",
+    "license": {
+      "name": "CC BY 2.0",
+      "url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "d5805a553c510335c2a9ccce269ce9ee2e49b85c",
+    "sha256": "49ba6f6a834bf0d8775c29abdbfc3b7c14fef1a5d3dc7f18e2355e63067ec4d1",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gai tod Hat Yai (ไก่ทอดหาดใหญ่). Visual description: Hat Yai fried chicken pieces topped with fried shallots."
+  },
+  {
+    "foodId": "gai-yang",
+    "path": "/photos/gai-yang.jpg",
+    "title": "Kai yang.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kai_yang.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kai_yang.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "37b2c4cb0f0501b5f3636d14c6dea349c9334e86",
+    "sha256": "970355a26b2748554ff51320858ae45a4352115fc83bc0d2e2e12b9a263c3c96",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Gai yang (ไก่ย่าง). Visual description: Grilled chicken pieces with browned skin on a plate."
+  },
+  {
+    "foodId": "ho-mok-pla",
+    "path": "/photos/ho-mok-pla.jpg",
+    "title": "Ho mok pla.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ho_mok_pla.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Ho_mok_pla.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "b3540323c5bdb11257626ee222af56bd498b0aae",
+    "sha256": "560da7c7a96c64f4b49f223a5ca3499b0d0562c5c69970c706e9303bb78d6943",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Ho mok pla (ห่อหมกปลา). Visual description: Steamed fish curry in leaf cups topped with coconut cream."
+  },
+  {
+    "foodId": "itim-kathi",
+    "path": "/photos/itim-kathi.jpg",
+    "title": "Coconut Ice Cream 2018-08-03 (1).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coconut_Ice_Cream_2018-08-03_(1).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Coconut_Ice_Cream_2018-08-03_%281%29.jpg",
+    "author": "Index Librorum Permissorum",
+    "license": {
+      "name": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "61784b546a516cf9ea696c3887e29002fdb565a9",
+    "sha256": "21903cd938c12a88b2729aeb220991dd69da123f9ad1281b1018f02a708c571f",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Itim kathi (ไอศกรีมกะทิ). Visual description: Coconut ice cream in a glass cup with peanuts."
+  },
+  {
+    "foodId": "jok",
+    "path": "/photos/jok.jpg",
+    "title": "Jok mu sap.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jok_mu_sap.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Jok_mu_sap.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "1e2c1256d86ddafab20e6d67dbe4022cee95f626",
+    "sha256": "bc9654f4885a2be8df4eea6a408c1459f152a99afaf868435ee21b30b75ca734",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Jok (โจ๊ก). Visual description: A bowl of pork rice congee with shredded ginger."
+  },
+  {
+    "foodId": "kari-pap",
+    "path": "/photos/kari-pap.jpg",
+    "title": "Karipap Chiang Mai.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Karipap_Chiang_Mai.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Karipap_Chiang_Mai.jpg",
+    "author": "Takeaway.",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "5b5b6070c8f9d6e958e4aa858047a6d877f13722",
+    "sha256": "aa9df22981ed7fe85358a1484c0833365a57c60ed52b3247769e5140a19c249f",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Kari pap (กะหรี่ปั๊บ). Visual description: Curry puffs with one cut open to show the filling."
+  },
+  {
+    "foodId": "khai-phalo",
+    "path": "/photos/khai-phalo.jpg",
+    "title": "ไข่พะโล้ (9042871426).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%9E%E0%B8%B0%E0%B9%82%E0%B8%A5%E0%B9%89_(9042871426).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%9E%E0%B8%B0%E0%B9%82%E0%B8%A5%E0%B9%89_%289042871426%29.jpg",
+    "author": "Vee Satayamas from Bangkok, Thailand",
+    "license": {
+      "name": "CC BY 2.0",
+      "url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "e076cfdf75b7d55f186c8e8921b0ef2c5ea89820",
+    "sha256": "2be1a52384a8bd8edcc4ef1760d9344a44a37326970956ccb4cfee7a9830677c",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khai phalo (ไข่พะโล้). Visual description: Brown braised eggs in a bowl of phalo broth."
+  },
+  {
+    "foodId": "khanom-chin-nam-ngiao",
+    "path": "/photos/khanom-chin-nam-ngiao.jpg",
+    "title": "Khanom chin nam ngiao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khanom_chin_nam_ngiao.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Khanom_chin_nam_ngiao.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "af5304a6c697f117233a8f46e8b524e06f24e3d0",
+    "sha256": "f5a42d39d4e869c6ea17935cc99b11092bb6ee67d6417d3173d4335ea8c3ca11",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khanom chin nam ngiao (ขนมจีนน้ำเงี้ยว). Visual description: Rice noodles in nam ngiao broth beside fresh vegetables."
+  },
+  {
+    "foodId": "khanom-chin-nam-ya",
+    "path": "/photos/khanom-chin-nam-ya.jpg",
+    "title": "2017 0426 Khanom chin nam ya Ayutthaya market 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017_0426_Khanom_chin_nam_ya_Ayutthaya_market_01.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/2017_0426_Khanom_chin_nam_ya_Ayutthaya_market_01.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "7ff360272bf47c28d94dfead8ee68464ea88395d",
+    "sha256": "48ad7a79b72a715e716efd9acd5d4195485e054e27d45a9dcbfbae3e116d2d0a",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "The Ayutthaya market serving shows noodles, fish curry sauce, and vegetables separately packed in bags, rather than an assembled bowl. This presentation is disclosed in the alt text."
+  },
+  {
+    "foodId": "khanom-khai-tao",
+    "path": "/photos/khanom-khai-tao.jpg",
+    "title": "ขนมไข่นกกระทา.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2.jpg",
+    "author": "ยุทธนาสาระขันธ์",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "178252d6196d36a8c1c5071a2b05c401bdf2f3ab",
+    "sha256": "cbd00a4a6a9486472a327052a39ca841b6b5f7c5301ba7a7defed2400c3addd4",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khanom khai tao (ขนมไข่เต่า). Visual description: Round golden fried sweet-potato balls in a paper bag."
+  },
+  {
+    "foodId": "khanom-krok",
+    "path": "/photos/khanom-krok.jpg",
+    "title": "Khanom khrok.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khanom_khrok.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Khanom_khrok.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "baf7bc941575bb66434644489f867b9a06d4dadf",
+    "sha256": "339116cc9c7242774052d6c5279b7e7d9b0b141ab819096721edfa0661f14e76",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khanom krok (ขนมครก). Visual description: Colorful khanom krok coconut cakes on banana leaf."
+  },
+  {
+    "foodId": "khanom-mo-kaeng",
+    "path": "/photos/khanom-mo-kaeng.jpg",
+    "title": "Mo kaeng.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mo_kaeng.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mo_kaeng.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "1aef58743f296f62d6c3a95633cad7ce24160bc7",
+    "sha256": "509f9741c3ede0840178bd84539bf879d2edf4b962a1602f8c7a8f9bec0e71a3",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khanom mo kaeng (ขนมหม้อแกง). Visual description: Small trays of golden-brown khanom mo kaeng custard."
+  },
+  {
+    "foodId": "khanom-phing",
+    "path": "/photos/khanom-phing.jpg",
+    "title": "ขนมผิง.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%9C%E0%B8%B4%E0%B8%87.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%9C%E0%B8%B4%E0%B8%87.jpg",
+    "author": "ยุทธนาสาระขันธ์",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "0d17a08b2b51fea4843797b9f3008c7adf382923",
+    "sha256": "6506613668a8747c1706183b1b30814dd43fd0ea30ea2b8e6dea0b580f6cf678",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khanom phing (ขนมผิง). Visual description: Small pale khanom phing cookies in a clear container."
+  },
+  {
+    "foodId": "khao-kha-mu",
+    "path": "/photos/khao-kha-mu.jpg",
+    "title": "Khao kha mu 02.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_kha_mu_02.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Khao_kha_mu_02.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "5bc8f221cb9f826ad9483abfecd3184d0d1faeb4",
+    "sha256": "eb07efa62a005c56f8cb3671ce123ce2790ab11c74c55aedcdb92c0afd4c2b57",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khao kha mu (ข้าวขาหมู). Visual description: Braised pork leg over rice with egg and greens."
+  },
+  {
+    "foodId": "khao-khluk-kapi",
+    "path": "/photos/khao-khluk-kapi.jpg",
+    "title": "Khao khluk kapi, Bangkok, 2017-11-20.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_khluk_kapi,_Bangkok,_2017-11-20.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Khao_khluk_kapi%2C_Bangkok%2C_2017-11-20.jpg",
+    "author": "Bitterschoko",
+    "license": {
+      "name": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "beec284e591fd78ed355030cecdec3ff2ba006e4",
+    "sha256": "aab3491149865365674cdd4a00e0d339c3cfc7c7a49712f8c1a5786ff9a271b3",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khao khluk kapi (ข้าวคลุกกะปิ). Visual description: Shrimp-paste rice surrounded by sliced egg, pork and vegetables."
+  },
+  {
+    "foodId": "khao-kriap-pak-mo",
+    "path": "/photos/khao-kriap-pak-mo.jpg",
+    "title": "Sakhu Sai Mu and Khao Kriap Pak Mo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sakhu_Sai_Mu_and_Khao_Kriap_Pak_Mo.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Sakhu_Sai_Mu_and_Khao_Kriap_Pak_Mo.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "5df7fec86c3347346613b3580c48d260ff75c2e4",
+    "sha256": "a3e902bf58493afcfdb206a5bf54b227cd55a389812db4b665cf96addc2e8812",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "Mixed serving: the white folded rice-sheet dumplings on the right are khao kriap pak mo; the round translucent dumplings on the left are sakhu sai mu. Both are disclosed in the alt text."
+  },
+  {
+    "foodId": "khao-lam",
+    "path": "/photos/khao-lam.jpg",
+    "title": "Khao lam ข้าวหลาม riz gluant cuit avec du lait de noix de coco dans un tube de bambou thailand.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_lam_%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A1_riz_gluant_cuit_avec_du_lait_de_noix_de_coco_dans_un_tube_de_bambou_thailand.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Khao_lam_%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A1_riz_gluant_cuit_avec_du_lait_de_noix_de_coco_dans_un_tube_de_bambou_thailand.jpg",
+    "author": "Renaudsechet",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "a198b07015a59503274c850c1636ccb19f7f1f16",
+    "sha256": "eb136e799583bae325ed211ee260f0c6f8dcba5e0fc81af8bebc6164570a7b74",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khao lam (ข้าวหลาม). Visual description: Purple sticky rice inside a split bamboo tube."
+  },
+  {
+    "foodId": "khao-man-gai",
+    "path": "/photos/khao-man-gai.jpg",
+    "title": "Khao man gai.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_man_gai.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Khao_man_gai.jpg",
+    "author": "stu_spivack",
+    "license": {
+      "name": "CC BY-SA 2.0",
+      "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "948f6f883f3069a9dc46caea02cab5f9cdbb1c6d",
+    "sha256": "28db08cfbdba0df78b5dbc0af8304efe61c08710cd2fc49323aff13e58e35a97",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khao man gai (ข้าวมันไก่). Visual description: Sliced chicken over rice with cucumber in a takeaway box."
+  },
+  {
+    "foodId": "khao-mok-gai",
+    "path": "/photos/khao-mok-gai.jpg",
+    "title": "Khao mok kai.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_mok_kai.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Khao_mok_kai.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "e5cbbb09d1a33f0ca3d9f03a0f2f841d87ecd701",
+    "sha256": "0f8522bfe3c4ca3fba0fd3b60b957f05dc98f0a51bc0e5181893d2b6653610ae",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khao mok gai (ข้าวหมกไก่). Visual description: Yellow spiced chicken rice with cucumber and dipping sauce."
+  },
+  {
+    "foodId": "khao-mu-daeng",
+    "path": "/photos/khao-mu-daeng.jpg",
+    "title": "Khao mu daeng.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_mu_daeng.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Khao_mu_daeng.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "e256cc20a1f4275d5e3b6f57f4a707ee5adb4f0e",
+    "sha256": "152fca8670888def5a620ad27f92e759608ea1c411082aff1ba102870995706a",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khao mu daeng (ข้าวหมูแดง). Visual description: Red roast pork and rice with sauce, egg and cucumber."
+  },
+  {
+    "foodId": "khao-niao-mamuang",
+    "path": "/photos/khao-niao-mamuang.jpg",
+    "title": "Mango sticky rice served in Thailand.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mango_sticky_rice_served_in_Thailand.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mango_sticky_rice_served_in_Thailand.jpg",
+    "author": "Arthur Taksin",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "33df8492af747d3731a2aa9983c95501665786e9",
+    "sha256": "75cc99b497e4124b8c1dc89e59d0d6a0b437d430f4b957e1ba05e611b045f9fd",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khao niao mamuang (ข้าวเหนียวมะม่วง). Visual description: Sliced ripe mango beside sticky rice and coconut sauce."
+  },
+  {
+    "foodId": "khao-pad",
+    "path": "/photos/khao-pad.jpg",
+    "title": "Khao Pad (with prawn) - Nok Nok Kitchen at The Cow 2024-03-28.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_Pad_(with_prawn)_-_Nok_Nok_Kitchen_at_The_Cow_2024-03-28.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Khao_Pad_%28with_prawn%29_-_Nok_Nok_Kitchen_at_The_Cow_2024-03-28.jpg",
+    "author": "Andy Li",
+    "license": {
+      "name": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "20b48b6538a9637891603c67e26db1a1d0aa0967",
+    "sha256": "271c5f355eac741a37e2bf3853beaebbeef6d7e1b3eda24dffa99bd6baf912f2",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khao pad (ข้าวผัด). Visual description: Thai fried rice with prawns and chopped green garnish."
+  },
+  {
+    "foodId": "khao-soi",
+    "path": "/photos/khao-soi.jpg",
+    "title": "Khao soi Chiang Mai.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_soi_Chiang_Mai.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Khao_soi_Chiang_Mai.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "a6b9016167aac050dbe304b1587137dd6f33dea0",
+    "sha256": "4f94608ea4e5a1567fd4ece56a7bd60e876739bf6ce26b31382f1c11578989a9",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khao soi (ข้าวซอย). Visual description: Khao soi curry noodles topped with crisp noodles beside condiments."
+  },
+  {
+    "foodId": "khao-tom",
+    "path": "/photos/khao-tom.jpg",
+    "title": "Khao tom pla 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_tom_pla_01.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Khao_tom_pla_01.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "ba5fea9cdd65e763124beb83a511a25ec4f43531",
+    "sha256": "8e133428108396753c914da4959cd0d559d3fc77b3078185a270b37795fd5055",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khao tom (ข้าวต้ม). Visual description: Fish rice soup topped with sliced greens and fried garlic."
+  },
+  {
+    "foodId": "khao-yam",
+    "path": "/photos/khao-yam.jpg",
+    "title": "2019 02 Khao yam unmixed.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_02_Khao_yam_unmixed.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/2019_02_Khao_yam_unmixed.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "006e879f8de3576c6ba0807bcda20c5089a7567a",
+    "sha256": "88f53ca4621e8d604ed565926eb4bd199b354f9b854ca5f18ac6497e6f6e8d9a",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khao yam (ข้าวยำ). Visual description: Unmixed southern Thai rice salad with shredded vegetables and lime."
+  },
+  {
+    "foodId": "khua-kling",
+    "path": "/photos/khua-kling.jpg",
+    "title": "Khua kling.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khua_kling.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Khua_kling.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "d56ec601edf0d95e4ceda06b5199cd06611a9804",
+    "sha256": "9096e73c902defec7eb98cab4933ce41476a632ed0afea93b13745bd0a53770b",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Khua kling (คั่วกลิ้ง). Visual description: Finely minced dry khua kling curry in a green bowl."
+  },
+  {
+    "foodId": "kluai-buat-chi",
+    "path": "/photos/kluai-buat-chi.jpg",
+    "title": "Kluai buat chi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kluai_buat_chi.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Kluai_buat_chi.jpg",
+    "author": "Susan Slater",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "d4172ba38da8a3e15552f513433982214c1648bc",
+    "sha256": "dadd076ac30ea9365182e727957e6fc20793f8b01cdb1f7f76211c2b00cf849d",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Kluai buat chi (กล้วยบวชชี). Visual description: Banana pieces in white coconut milk on a glass dish."
+  },
+  {
+    "foodId": "kluai-khaek",
+    "path": "/photos/kluai-khaek.jpg",
+    "title": "Kluai thot.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kluai_thot.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kluai_thot.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "d65625eb6ec3e9ca173e7b8df11b6a8612289f3c",
+    "sha256": "dc0c3c4bb3496f5d94b729cbc502168d89c4193b0fa4a1d454456e05b56016d4",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Kluai khaek (กล้วยแขก). Visual description: Golden battered fried banana pieces on a dark plate."
+  },
+  {
+    "foodId": "kuai-tiao-khua-gai",
+    "path": "/photos/kuai-tiao-khua-gai.jpg",
+    "title": "Noodles stir-fried with chicken - Bangkok - 2017-07-19 (002).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noodles_stir-fried_with_chicken_-_Bangkok_-_2017-07-19_(002).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Noodles_stir-fried_with_chicken_-_Bangkok_-_2017-07-19_%28002%29.jpg",
+    "author": "Iudexvivorum",
+    "license": {
+      "name": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "7433203bf214ffa7522301519bfaee15cd89d13f",
+    "sha256": "7e013d28c7ea95fb3b9b5b6b4286b1ec98008bbd285f7b0793e05dee85a1c462",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Kuai tiao khua gai (ก๋วยเตี๋ยวคั่วไก่). Visual description: Chicken stir-fried rice noodles topped with an egg."
+  },
+  {
+    "foodId": "kuai-tiao-ruea",
+    "path": "/photos/kuai-tiao-ruea.jpg",
+    "title": "Boat noodles.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boat_noodles.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Boat_noodles.jpg",
+    "author": "Flickr user Alpha",
+    "license": {
+      "name": "CC BY-SA 2.0",
+      "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "213118422b32e258177d03452217a96ffb571b23",
+    "sha256": "09d11eec312fa26078e789ff34834cebf3cafc91bb0c5f3b1c8c0682a92ad111",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Kuai tiao ruea (ก๋วยเตี๋ยวเรือ). Visual description: Boat noodles with meat and herbs in a deep bowl."
+  },
+  {
+    "foodId": "larb",
+    "path": "/photos/larb.jpg",
+    "title": "Lap mu isan.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lap_mu_isan.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lap_mu_isan.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "6ace98fba0f48c394dd5720e8c90391d62275523",
+    "sha256": "6656e82be65e46f96b296e5e2486ff2889364bf7441f2bac72f654b43ec80794",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Larb (ลาบ). Visual description: Minced pork larb topped with mint beside raw vegetables."
+  },
+  {
+    "foodId": "luk-chup",
+    "path": "/photos/luk-chup.jpg",
+    "title": "154 - khanom luk chup.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:154_-_khanom_luk_chup.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/154_-_khanom_luk_chup.jpg",
+    "author": "Susan Slater",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "9b01146556fabfcd377c30d022cdff27f57a22f0",
+    "sha256": "3f892d0d3f498aa56f699b438e15993b6080b18b49e54968852bb3b696b04869",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Luk chup (ลูกชุบ). Visual description: Glossy luk chup sweets shaped like colorful miniature produce."
+  },
+  {
+    "foodId": "mee-krob",
+    "path": "/photos/mee-krob.jpg",
+    "title": "Mi krop - Bangkok - 2017-04-29 (004).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mi_krop_-_Bangkok_-_2017-04-29_(004).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mi_krop_-_Bangkok_-_2017-04-29_%28004%29.jpg",
+    "author": "Iudexvivorum",
+    "license": {
+      "name": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "f1b3ad2bf3fd9bc5a02360a77e58367878b6ca22",
+    "sha256": "96c7e5592b0a6caa631e0212dc8dddd1a03f4b486b808ab186e267f1ca92d815",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Mee krob (หมี่กรอบ). Visual description: Crisp fine noodles topped with herbs and sliced chili."
+  },
+  {
+    "foodId": "miang-kham",
+    "path": "/photos/miang-kham.jpg",
+    "title": "Miang kham platter.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miang_kham_platter.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Miang_kham_platter.jpg",
+    "author": "Jpatokal",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "95cd3ec4e2cb57e7459db3f6fe422c1c3db18563",
+    "sha256": "a60df34bd9abbb08fa3cd7927c1ee1072a3dcbdeec49022f3cb05b5eef90451a",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Miang kham (เมี่ยงคำ). Visual description: Miang kham leaves and fillings arranged in small bowls on a tray."
+  },
+  {
+    "foodId": "mu-manao",
+    "path": "/photos/mu-manao.jpg",
+    "title": "Mu manao.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mu_manao.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mu_manao.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "7b8aa650bd21c94fc20423f4e37b5fb1f3707632",
+    "sha256": "97a5a7a6e9b8445482f488bad58c30b00042a19ad148b3b02a861c739f8b8655",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Moo manao (หมูมะนาว). Visual description: Sliced pork with chili, garlic and greens in lime dressing."
+  },
+  {
+    "foodId": "mu-ping",
+    "path": "/photos/mu-ping.jpg",
+    "title": "Mu ping.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mu_ping.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Mu_ping.jpg",
+    "author": "Phoebus 28",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "0ffde3d0856ba0f527925de5074e31b4c32a7b57",
+    "sha256": "7e46742d88730259f62858c01f641ef7bec503947db206a95a644b7cb71e0af0",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Moo ping (หมูปิ้ง). Visual description: Pork skewers browning on a wire grill."
+  },
+  {
+    "foodId": "mu-satay",
+    "path": "/photos/mu-satay.jpg",
+    "title": "Mu sate.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mu_sate.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Mu_sate.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "cdbc2985143093fbc7b0e51c8b9e0dde5d4b788c",
+    "sha256": "eed277313690e27483615589a22b22df107811b13c5005ab51647232c56e5992",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Moo satay (หมูสะเต๊ะ). Visual description: Yellow-marinated pork satay on wooden skewers."
+  },
+  {
+    "foodId": "mu-tod-krathiam",
+    "path": "/photos/mu-tod-krathiam.jpg",
+    "title": "Mu thot krathiam.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mu_thot_krathiam.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Mu_thot_krathiam.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "5cf7ad18ef0b33b673b0d0dfba4c5000b157e4be",
+    "sha256": "2e95ba5cbc8cb17e4bcbafd5a241e24ec8876a0edc1e5239935a49117cd77dc4",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Moo tod krathiam (หมูทอดกระเทียม). Visual description: Fried pork pieces topped with crisp garlic."
+  },
+  {
+    "foodId": "nam-phrik-kapi",
+    "path": "/photos/nam-phrik-kapi.jpg",
+    "title": "Vegetable platter with nam phrik kapi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vegetable_platter_with_nam_phrik_kapi.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Vegetable_platter_with_nam_phrik_kapi.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "f5eb3f2de125b9147359fae4d1e0091d390d2f11",
+    "sha256": "a8ce0abb623f3e37222cd5cdff0352e49e863878ff14aeca8925a42ceb973a04",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Nam phrik kapi (น้ำพริกกะปิ). Visual description: Shrimp-paste chili dip surrounded by fresh green vegetables."
+  },
+  {
+    "foodId": "nam-phrik-num",
+    "path": "/photos/nam-phrik-num.jpg",
+    "title": "Nam phrik num.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nam_phrik_num.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Nam_phrik_num.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "8085ffb8a9ceb7ea5d5941c48a8cb4a18d3b2a9a",
+    "sha256": "cbf528cfa0725bffd3d13dcb3726ef441cdbd987448135eb0de497c1376cb6b9",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Nam phrik num (น้ำพริกหนุ่ม). Visual description: Green chili dip in a small red-rimmed bowl."
+  },
+  {
+    "foodId": "nam-tok",
+    "path": "/photos/nam-tok.jpg",
+    "title": "Nuea yang nam tok.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nuea_yang_nam_tok.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Nuea_yang_nam_tok.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "d4e0a6585b37420bac7d0f8af1574c305c75f6b5",
+    "sha256": "aabd747e40d286ac2eaa641846d3726434828a6c03bab15cac0d0290aa59f7ac",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Nam tok (น้ำตก). Visual description: Grilled beef salad with sliced shallots and fresh herbs."
+  },
+  {
+    "foodId": "pad-kee-mao",
+    "path": "/photos/pad-kee-mao.jpg",
+    "title": "Sen yai phat khi mao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sen_yai_phat_khi_mao.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sen_yai_phat_khi_mao.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "fa1b97fc14c235c877c11f1ffca523ee7be18f3d",
+    "sha256": "25d0e82baaecc30507876713cd01f4ddb7edff38e8d97879be7c40590debd8e1",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Pad kee mao (ผัดขี้เมา). Visual description: Wide rice noodles stir-fried with meat, greens and chili."
+  },
+  {
+    "foodId": "pad-kra-pao",
+    "path": "/photos/pad-kra-pao.jpg",
+    "title": "Kraphao mu khai dao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kraphao_mu_khai_dao.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kraphao_mu_khai_dao.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "685781866a45f064ffa406d45e610d0a7ac71e3c",
+    "sha256": "300ce56db47ad440a2c5df63c1d6625385dc743c9b0db076a4aa47fd07176892",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Pad kra pao (ผัดกะเพรา). Visual description: Holy basil pork over rice beside a fried egg."
+  },
+  {
+    "foodId": "pad-phak-bung",
+    "path": "/photos/pad-phak-bung.jpg",
+    "title": "Pad Pak Bung (Morning glory) - Thai Street Food, Worthing 2026-08-21.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pad_Pak_Bung_(Morning_glory)_-_Thai_Street_Food,_Worthing_2026-08-21.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pad_Pak_Bung_%28Morning_glory%29_-_Thai_Street_Food%2C_Worthing_2026-08-21.jpg",
+    "author": "Andy Li",
+    "license": {
+      "name": "CC0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "82c9a4aa19ecace461dab2cbd8366b35dbefd29a",
+    "sha256": "9cc227b8805d270f6a2c85631a3553bf0e55d05a6d2af60255e9d406d75fa6c5",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Pad phak bung (ผัดผักบุ้ง). Visual description: Stir-fried water spinach stems and leaves on a white plate."
+  },
+  {
+    "foodId": "pad-see-ew",
+    "path": "/photos/pad-see-ew.jpg",
+    "title": "Pad See Ew - Bangkok.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pad_See_Ew_-_Bangkok.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Pad_See_Ew_-_Bangkok.jpg",
+    "author": "Vee Satayamas",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "5837e58aac79dc6b754bfded1e9cd60e9e75d313",
+    "sha256": "76a5a65e043a0a670fa8ad36df300505dc200cb2b162f4f62250a91582acd252",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Pad see ew (ผัดซีอิ๊ว). Visual description: Wide soy-sauce fried rice noodles with meat and greens."
+  },
+  {
+    "foodId": "pad-thai",
+    "path": "/photos/pad-thai.jpg",
+    "title": "Phat Thai kung Chang Khien street stall.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "da958da739267481ac76e5f20c3617347fbcadc6",
+    "sha256": "fed4f3417ee6ffa43e73db20af7bb55bae0e984aafe5e566ab05d075d1df8234",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Pad Thai (ผัดไทย). Visual description: Pad Thai noodles with shrimp, bean sprouts, peanuts and lime."
+  },
+  {
+    "foodId": "pad-woon-sen",
+    "path": "/photos/pad-woon-sen.jpg",
+    "title": "Fried cellophane noodles with shrimp Pad woon sen kung.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fried_cellophane_noodles_with_shrimp_Pad_woon_sen_kung.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Fried_cellophane_noodles_with_shrimp_Pad_woon_sen_kung.jpg",
+    "author": "Sakurai Midori",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "6f448fab028df555cd7f288a3eadfead0c43dd31",
+    "sha256": "03ca90dc3bc729c6920fd9ceea2664eb9a8cf651ff762b25303e10b4f267a3a3",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Pad woon sen (ผัดวุ้นเส้น). Visual description: Stir-fried glass noodles with shrimp and bean sprouts."
+  },
+  {
+    "foodId": "phanaeng",
+    "path": "/photos/phanaeng.jpg",
+    "title": "Phanaeng mu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phanaeng_mu.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Phanaeng_mu.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "198639bbb6fe268f3bb933888eb95ec7fadafa1f",
+    "sha256": "04a8fcdc1495e14691cd8f96cfab1eaebebe4c9e6c0909a2763545d2da5a7014",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Phanaeng (Panang curry) (พะแนง). Visual description: Pork in thick phanaeng curry topped with shredded leaves."
+  },
+  {
+    "foodId": "pla-tod-khamin",
+    "path": "/photos/pla-tod-khamin.jpg",
+    "title": "Pla sai daeng thot.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pla_sai_daeng_thot.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Pla_sai_daeng_thot.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "f13ec32be15544a88727b46ec90dbba9591d83b6",
+    "sha256": "8d1306e98980791a1b06ebba36505be8f226eee43e794c6268e7db1ff1c1c862",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Pla tod khamin (ปลาทอดขมิ้น). Visual description: Whole fried fish covered with crisp turmeric and garlic."
+  },
+  {
+    "foodId": "pu-pad-phong-kari",
+    "path": "/photos/pu-pad-phong-kari.jpg",
+    "title": "Pu Phat Phong Kari.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pu_Phat_Phong_Kari.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Pu_Phat_Phong_Kari.jpg",
+    "author": "User:Takoradee",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "f9a0633645527ad2e4140687048fcd5e610743c6",
+    "sha256": "62c1a9eec9929611127dec81c077431815d6e5632f337f977ed8766c5e4ce6e0",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Pu pad phong kari (ปูผัดผงกะหรี่). Visual description: Crab in yellow curry-powder sauce on a white platter."
+  },
+  {
+    "foodId": "rad-na",
+    "path": "/photos/rad-na.jpg",
+    "title": "Kuay-tiew rad na.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuay-tiew_rad_na.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Kuay-tiew_rad_na.jpg",
+    "author": "stu_spivack",
+    "license": {
+      "name": "CC BY-SA 2.0",
+      "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "81126d97ead665af333ef6025f1500bd9c06434d",
+    "sha256": "aecafeb0b7ee1719f1ca99f94ccd33ba45b154bbd8a9e9a319769305c03b0fb5",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Rad na (ราดหน้า). Visual description: Wide rice noodles and green vegetables covered with brown gravy."
+  },
+  {
+    "foodId": "roti-kluai",
+    "path": "/photos/roti-kluai.jpg",
+    "title": "Roti kluai khai chiang mai 04.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roti_kluai_khai_chiang_mai_04.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Roti_kluai_khai_chiang_mai_04.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "de0816ebd7f69f8daa2f49325fd720e7dead0d3c",
+    "sha256": "23b640cdf246f94df66fbf3e002dc50ce499a9348f7a2d6e7adbb0b93f1f359f",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Roti kluai (โรตีกล้วย). Visual description: Golden banana roti cut into squares on a patterned plate."
+  },
+  {
+    "foodId": "sai-ua",
+    "path": "/photos/sai-ua.jpg",
+    "title": "Sai ua.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sai_ua.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Sai_ua.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "2314a26ba802fbfdfbcbf80d7b21169163b39824",
+    "sha256": "b4fa6680717dee4dd332dc6f67fecb94dd6adb25e9c7c711c5ffdff8d282fcd8",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Sai ua (ไส้อั่ว). Visual description: Sliced northern Thai herb sausage with fresh herbs."
+  },
+  {
+    "foodId": "sakhu-sai-mu",
+    "path": "/photos/sakhu-sai-mu.jpg",
+    "title": "Sakhu sai mu - 2009-03-13 - 001.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sakhu_sai_mu_-_2009-03-13_-_001.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Sakhu_sai_mu_-_2009-03-13_-_001.jpg",
+    "author": "Alpha",
+    "license": {
+      "name": "CC BY-SA 2.0",
+      "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "9a9c7b1c359d9ed5613e00fb4a4b280184757e37",
+    "sha256": "06af5a821ca584b772cb9b94bfc0e0d693d7e2a8e2474d476407df6f108e0cdb",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Sakhu sai mu (สาคูไส้หมู). Visual description: Round translucent tapioca dumplings piled on banana leaf."
+  },
+  {
+    "foodId": "sangkhaya-fak-thong",
+    "path": "/photos/sangkhaya-fak-thong.jpg",
+    "title": "Sangkhaya fak thong.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sangkhaya_fak_thong.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sangkhaya_fak_thong.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "644b4173ff7ad1020a3c27a6632af82179517df3",
+    "sha256": "65fa9840d7005fdd81f81851e21281e7c3bbe7d88565c7e88278dff8afc14ec9",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Sangkhaya fak thong (สังขยาฟักทอง). Visual description: A wedge of pumpkin with pale custard inside."
+  },
+  {
+    "foodId": "som-tam",
+    "path": "/photos/som-tam.jpg",
+    "title": "Som Tam green papaya salad, Bangkok, Thailand.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Som_Tam_green_papaya_salad%2C_Bangkok%2C_Thailand.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "7e93f87c2ef82237ce11820fab075ef14a58b73e",
+    "sha256": "3b877ec5f73f1f5f42f376670def84ba50f56ba52c163084fecc09ba5c320371",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Som tam (ส้มตำ). Visual description: Shredded green papaya salad with tomato and chili on a plate."
+  },
+  {
+    "foodId": "tako",
+    "path": "/photos/tako.jpg",
+    "title": "Khanom tako sai.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khanom_tako_sai.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Khanom_tako_sai.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "1f21251d51050869cfda76626f2efe246c0e52a5",
+    "sha256": "bfa4b9ee7e6905e5e515cce9fb35c2fde670ef4e9759124b02e2be62cf2db636",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Tako (ตะโก้). Visual description: Small leaf cups filled with tako coconut pudding."
+  },
+  {
+    "foodId": "thap-thim-krop",
+    "path": "/photos/thap-thim-krop.jpg",
+    "title": "ทับทิมกรอบ.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A.jpg",
+    "author": "Isriya Paireepairit from Sheffield, United Kingdom",
+    "license": {
+      "name": "CC BY 2.0",
+      "url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "cd4c227f7c6767232c7834539e2f04d18084e407",
+    "sha256": "5fc6ad16a7c4fe71d4d89d4e302dfbd8833db01b6afa72e1d6dae237f751c18b",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Thap thim krop (Tub tim krob) (ทับทิมกรอบ). Visual description: Pink ruby-like water-chestnut pieces in a bowl."
+  },
+  {
+    "foodId": "thong-yip",
+    "path": "/photos/thong-yip.jpg",
+    "title": "ทองหยิบ.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A2%E0%B8%B4%E0%B8%9A.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A2%E0%B8%B4%E0%B8%9A.jpg",
+    "author": "Praewdu",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "51d09002d1faf67eb38b12a91cb006fab1b1da7b",
+    "sha256": "933506d373db6d478c155d8097bd8b2757a844424b4059ea87511351a3bd3bf8",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "The source identifies thong yip. Visually reviewed the two finished pinched sweets in the foreground and unshaped discs behind them; the preparation-stage presentation is disclosed in the alt text. Replaces a correctly identified but undersized 365 by 206 pixel candidate."
+  },
+  {
+    "foodId": "thong-yot",
+    "path": "/photos/thong-yot.jpg",
+    "title": "ขนมทองหยอด.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A2%E0%B8%AD%E0%B8%94.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A2%E0%B8%AD%E0%B8%94.jpg",
+    "author": "Praewdu",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "b46f40f7fe09a4a3871e69dc3cdfbb15ef7d088e",
+    "sha256": "f9cb69cf0b29d944cd6e63c78785449b174174faafc01997e39860feba7a25e3",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Thong yot (ทองหยอด). Visual description: Small golden thong yot egg-yolk drops on a patterned dish."
+  },
+  {
+    "foodId": "tod-man-kung",
+    "path": "/photos/tod-man-kung.jpg",
+    "title": "Thot man kung.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thot_man_kung.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Thot_man_kung.jpg",
+    "author": "chomjong",
+    "license": {
+      "name": "CC BY 2.0",
+      "url": "https://creativecommons.org/licenses/by/2.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "9cadf45bc8f721fff67633d6912852fb60e11479",
+    "sha256": "2a5da3473014c39b8e784177356bec886552cb1375b2a27b5d3fc962c0cea9bc",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Tod man kung (ทอดมันกุ้ง). Visual description: Breaded shrimp cakes beside a small bowl of dipping sauce."
+  },
+  {
+    "foodId": "tod-man-pla",
+    "path": "/photos/tod-man-pla.jpg",
+    "title": "Thanin market tod man pla.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thanin_market_tod_man_pla.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Thanin_market_tod_man_pla.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "12b2f6cb98bff359d8cdff3f306ff2bdb917cb79",
+    "sha256": "27a7f14d37e8e02af84d7de49837ebe1e39579066d56a7bc726786616692f0c7",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Tod man pla (ทอดมันปลา). Visual description: A pile of reddish fried fish cakes with herbs at a market stall."
+  },
+  {
+    "foodId": "tom-kha-gai",
+    "path": "/photos/tom-kha-gai.jpg",
+    "title": "Tom Kha Kai in Phra Nakhon District, Bangkok, Thailand.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Kha_Kai_in_Phra_Nakhon_District,_Bangkok,_Thailand.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Tom_Kha_Kai_in_Phra_Nakhon_District%2C_Bangkok%2C_Thailand.jpg",
+    "author": "Globe-trotter",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "23f13a434a4fd49038bcf6f99362ccde073dc50d",
+    "sha256": "068510cea20cab02fa03eaf45314972dfe98b7aa63e998810096dcc95cccf002",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Tom kha gai (ต้มข่าไก่). Visual description: White coconut chicken soup with herbs in a square bowl."
+  },
+  {
+    "foodId": "tom-saep",
+    "path": "/photos/tom-saep.jpg",
+    "title": "Tom saep.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_saep.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Tom_saep.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "fd209f586ccd0ee673e90372b7e0e19c9dcbb8a1",
+    "sha256": "f7c8aebfd7070f6027e1848c9d782a9b25280666049455dc9196ade4bc1368aa",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Tom saep (ต้มแซ่บ). Visual description: Hot and sour meat soup in a metal hotpot."
+  },
+  {
+    "foodId": "tom-yum-kung",
+    "path": "/photos/tom-yum-kung.jpg",
+    "title": "Tom yam kung maenam.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_yam_kung_maenam.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tom_yam_kung_maenam.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "be867f059e3c71ba6078fefd2a7a44a496911e85",
+    "sha256": "58b99e320ce56094c8fee8d6bd92a9166dfc620fd67fc8418ca2edb583d08d67",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Tom yum kung (ต้มยำกุ้ง). Visual description: Orange-red tom yum broth with prawns and herbs."
+  },
+  {
+    "foodId": "yam-khai-dao",
+    "path": "/photos/yam-khai-dao.jpg",
+    "title": "Yam khai dao.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yam_khai_dao.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Yam_khai_dao.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "57fe9bac3ed51eef6bf418265adbd25729084216",
+    "sha256": "0ac4a21b47caed22125ed157fca003683a17e6253003a585e4b335a9d129ae30",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Yam khai dao (ยำไข่ดาว). Visual description: Fried-egg salad topped with onion and Chinese celery."
+  },
+  {
+    "foodId": "yam-naem-khao-tod",
+    "path": "/photos/yam-naem-khao-tod.jpg",
+    "title": "Naem khluk 1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naem_khluk_1.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Naem_khluk_1.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "b9bd4310ecf0fd3abe91a669b0c1a0531306ea17",
+    "sha256": "869c2e010b2826e027d95b7a37ebf7aecb7498436757e080de11f0f17b0f6f1c",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "The source uses the name naem khluk for the crispy rice and fermented-pork salad. This is the catalogue dish, not the plain yam naem salad returned by the initial search."
+  },
+  {
+    "foodId": "yam-som-o",
+    "path": "/photos/yam-som-o.jpg",
+    "title": "Yam som-o.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yam_som-o.JPG",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Yam_som-o.JPG",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "83b24695025ee490871fa9b69e232bc8b263fb9c",
+    "sha256": "31a02fccbd5b324a8408a400fae6de5737817387f009007c3720a66c5d7b1e0e",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Yam som-o (ยำส้มโอ). Visual description: Pomelo salad topped with peanuts and fried shallots."
+  },
+  {
+    "foodId": "yam-thua-phu",
+    "path": "/photos/yam-thua-phu.jpg",
+    "title": "Yam thua phu.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yam_thua_phu.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Yam_thua_phu.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "99896c43fc268a83b7cde2037377fabe27c186c5",
+    "sha256": "c810b8810b5914d5f275e7077918ee7f72d38148ddb196af219b72e820f35e74",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Yam thua phu (ยำถั่วพู). Visual description: Winged-bean salad with sliced egg and a dark garnish."
+  },
+  {
+    "foodId": "yam-woon-sen",
+    "path": "/photos/yam-woon-sen.jpg",
+    "title": "Yam wunsen.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yam_wunsen.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Yam_wunsen.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "e29ba317a46647ddfa774d1d0318c154cbeb4951",
+    "sha256": "0e5792dee71e4a101b0ea01d02c5e6f91345a9c1eab8049d00133c86b1316ca3",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Yam woon sen (ยำวุ้นเส้น). Visual description: Glass-noodle salad with sliced onion and green herbs."
+  },
+  {
+    "foodId": "yen-ta-fo",
+    "path": "/photos/yen-ta-fo.jpg",
+    "title": "2019 01 Yen tafo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_01_Yen_tafo.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2019_01_Yen_tafo.jpg",
+    "author": "Takeaway",
+    "license": {
+      "name": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "accessed": "2026-10-31",
+    "sourceSha1": "b627df5d13d48259d8e2133c5f2e0a67bce57af0",
+    "sha256": "fa3de99e1325c740af1d36df0e4d03316b1ecef9d73a165b20262008842f62fe",
+    "changes": "Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.",
+    "verificationNotes": "File-page dish identification and visual review match Yen ta fo (เย็นตาโฟ). Visual description: Wide noodles and assorted toppings in pink yen ta fo broth."
+  }
+]

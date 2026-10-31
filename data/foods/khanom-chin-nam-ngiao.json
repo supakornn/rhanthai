@@ -8,5 +8,24 @@
     "en": "Rice noodles in a pork and tomato broth, sometimes including dried ngiao flowers.",
     "th": "ขนมจีนราดน้ำแกงหมูกับมะเขือเทศ บางสูตรใส่ดอกงิ้วแห้ง"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/khanom-chin-nam-ngiao.jpg",
+      "width": 960,
+      "height": 568,
+      "alt": {
+        "en": "Rice noodles in nam ngiao broth beside fresh vegetables",
+        "th": "ขนมจีนน้ำเงี้ยวเคียงผักสด"
+      },
+      "credit": {
+        "name": "Khanom chin nam ngiao.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Khanom_chin_nam_ngiao.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khanom_chin_nam_ngiao.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

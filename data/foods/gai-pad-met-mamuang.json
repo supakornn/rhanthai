@@ -8,5 +8,24 @@
     "en": "Chicken stir-fried with cashews, onions and dried chillies in a savoury sauce.",
     "th": "ไก่ผัดกับเม็ดมะม่วงหิมพานต์ หอมใหญ่ และพริกแห้งในซอสรสกลมกล่อม"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/gai-pad-met-mamuang.jpg",
+      "width": 960,
+      "height": 720,
+      "alt": {
+        "en": "Chicken stir-fried with cashews and colorful vegetables",
+        "th": "ไก่ผัดเม็ดมะม่วงหิมพานต์กับผักหลากสี"
+      },
+      "credit": {
+        "name": "Cashewchickenphoto.jpg — Simon Law from Montréal, QC, Canada. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Cashewchickenphoto.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cashewchickenphoto.jpg",
+      "license": {
+        "name": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    }
+  ]
 }

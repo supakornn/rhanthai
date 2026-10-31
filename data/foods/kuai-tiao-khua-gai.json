@@ -8,5 +8,24 @@
     "en": "Wide rice noodles fried with chicken and egg until lightly browned, often served over lettuce.",
     "th": "เส้นใหญ่คั่วกับไก่และไข่ให้เกรียมเล็กน้อย มักเสิร์ฟบนผักกาดหอม"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/kuai-tiao-khua-gai.jpg",
+      "width": 720,
+      "height": 960,
+      "alt": {
+        "en": "Chicken stir-fried rice noodles topped with an egg",
+        "th": "ก๋วยเตี๋ยวคั่วไก่โปะไข่"
+      },
+      "credit": {
+        "name": "Noodles stir-fried with chicken - Bangkok - 2017-07-19 (002).jpg — Iudexvivorum. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Noodles_stir-fried_with_chicken_-_Bangkok_-_2017-07-19_(002).jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noodles_stir-fried_with_chicken_-_Bangkok_-_2017-07-19_(002).jpg",
+      "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    }
+  ]
 }

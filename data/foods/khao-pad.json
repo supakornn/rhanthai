@@ -8,5 +8,24 @@
     "en": "Rice stir-fried with egg and savoury seasonings, commonly with meat or seafood and lime served alongside.",
     "th": "ข้าวผัดกับไข่และเครื่องปรุงรส มักใส่เนื้อสัตว์หรืออาหารทะเล เสิร์ฟพร้อมมะนาว"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/khao-pad.jpg",
+      "width": 960,
+      "height": 720,
+      "alt": {
+        "en": "Thai fried rice with prawns and chopped green garnish",
+        "th": "ข้าวผัดกุ้งโรยผักสีเขียวสับ"
+      },
+      "credit": {
+        "name": "Khao Pad (with prawn) - Nok Nok Kitchen at The Cow 2024-03-28.jpg — Andy Li. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Khao_Pad_(with_prawn)_-_Nok_Nok_Kitchen_at_The_Cow_2024-03-28.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_Pad_(with_prawn)_-_Nok_Nok_Kitchen_at_The_Cow_2024-03-28.jpg",
+      "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    }
+  ]
 }

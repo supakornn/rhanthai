@@ -8,5 +8,24 @@
     "en": "Rice in a light savoury broth, commonly served with seafood or meat and aromatic garnishes.",
     "th": "ข้าวในน้ำซุปรสอ่อน มักใส่อาหารทะเลหรือเนื้อสัตว์และโรยเครื่องหอม"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/khao-tom.jpg",
+      "width": 960,
+      "height": 768,
+      "alt": {
+        "en": "Fish rice soup topped with sliced greens and fried garlic",
+        "th": "ข้าวต้มปลาโรยผักซอยและกระเทียมเจียว"
+      },
+      "credit": {
+        "name": "Khao tom pla 01.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Khao_tom_pla_01.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_tom_pla_01.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

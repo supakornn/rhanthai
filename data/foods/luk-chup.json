@@ -8,5 +8,24 @@
     "en": "Sweet mung-bean paste shaped and coloured like miniature fruit, coated in agar jelly.",
     "th": "ถั่วเขียวกวนปั้นระบายสีเป็นผลไม้ขนาดเล็ก เคลือบวุ้นให้เงา"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/luk-chup.jpg",
+      "width": 792,
+      "height": 960,
+      "alt": {
+        "en": "Glossy luk chup sweets shaped like colorful miniature produce",
+        "th": "ลูกชุบเคลือบเงาปั้นเป็นผักผลไม้จิ๋วหลากสี"
+      },
+      "credit": {
+        "name": "154 - khanom luk chup.jpg — Susan Slater. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:154_-_khanom_luk_chup.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:154_-_khanom_luk_chup.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
 }

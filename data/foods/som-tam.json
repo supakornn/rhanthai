@@ -8,5 +8,24 @@
     "en": "Shredded green papaya pounded with a spicy, tangy dressing; seasonings vary between versions.",
     "th": "มะละกอดิบสับตำกับน้ำปรุงรสเปรี้ยวเผ็ด มีเครื่องปรุงแตกต่างกันตามสูตร"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/som-tam.jpg",
+      "width": 960,
+      "height": 720,
+      "alt": {
+        "en": "Shredded green papaya salad with tomato and chili on a plate",
+        "th": "ส้มตำมะละกอดิบใส่มะเขือเทศและพริกบนจาน"
+      },
+      "credit": {
+        "name": "Som Tam green papaya salad, Bangkok, Thailand.jpg — Vyacheslav Argenberg. Resized and JPEG re-encoded; no crop. © Vyacheslav Argenberg",
+        "url": "https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    }
+  ]
 }

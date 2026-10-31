@@ -8,5 +8,24 @@
     "en": "Sweet sticky rice cooked inside bamboo tubes and eaten by opening the bamboo.",
     "th": "ข้าวเหนียวปรุงหวานใส่กระบอกไม้ไผ่แล้วเผาจนสุก แกะกระบอกรับประทาน"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/khao-lam.jpg",
+      "width": 458,
+      "height": 375,
+      "alt": {
+        "en": "Purple sticky rice inside a split bamboo tube",
+        "th": "ข้าวหลามสีม่วงในกระบอกไม้ไผ่ผ่าซีก"
+      },
+      "credit": {
+        "name": "Khao lam ข้าวหลาม riz gluant cuit avec du lait de noix de coco dans un tube de bambou thailand.jpg — Renaudsechet. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Khao_lam_%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A1_riz_gluant_cuit_avec_du_lait_de_noix_de_coco_dans_un_tube_de_bambou_thailand.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_lam_%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A1_riz_gluant_cuit_avec_du_lait_de_noix_de_coco_dans_un_tube_de_bambou_thailand.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
 }

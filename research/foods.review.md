@@ -21,8 +21,10 @@ Research and verification date: 2026-10-24 (UTC).
   Hot Thai Kitchen. Hot Thai Kitchen supplies 85 dish-specific culinary references;
   the other 15 records use the other publishers. Michelin and some government/library
   pages were explored but failed readable retrieval, so are not cited as evidence.
-- No source photographs were downloaded or published. Every `photos` array is empty;
-  no licensing or credit claims are made.
+- At the initial text-only publication on 2026-10-24, no photographs were downloaded
+  or published and every `photos` array was empty. The subsequent photograph pass
+  is documented separately in `photos.review.md`, `photos.sources.json` and
+  `photos.gaps.json`; the culinary provenance below remains unchanged.
 
 ## Editorial boundaries
 

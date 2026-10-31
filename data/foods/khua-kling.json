@@ -8,5 +8,24 @@
     "en": "A dry meat curry stir-fried with a pungent curry paste until it coats the meat.",
     "th": "เนื้อสัตว์คั่วกับพริกแกงรสจัดจนแห้งและพริกแกงเคลือบเนื้อ"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/khua-kling.jpg",
+      "width": 960,
+      "height": 675,
+      "alt": {
+        "en": "Finely minced dry khua kling curry in a green bowl",
+        "th": "คั่วกลิ้งเนื้อสับละเอียดในชามสีเขียว"
+      },
+      "credit": {
+        "name": "Khua kling.JPG — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Khua_kling.JPG"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khua_kling.JPG",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

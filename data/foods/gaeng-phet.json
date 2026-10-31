@@ -8,5 +8,24 @@
     "en": "Red curry paste simmered in coconut milk with meat and vegetables, scented with Thai basil.",
     "th": "แกงกะทิพริกแกงแดง ใส่เนื้อสัตว์และผัก แต่งกลิ่นด้วยโหระพา"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/gaeng-phet.jpg",
+      "width": 960,
+      "height": 653,
+      "alt": {
+        "en": "Red pork curry topped with sliced chili and herbs",
+        "th": "แกงเผ็ดหมูโรยพริกหั่นและสมุนไพร"
+      },
+      "credit": {
+        "name": "Kaeng phet mu.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Kaeng_phet_mu.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaeng_phet_mu.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }
