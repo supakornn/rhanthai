@@ -8,5 +8,24 @@
     "en": "Rice topped with tender pork leg braised in a fragrant soy-based sauce.",
     "th": "ข้าวสวยราดขาหมูที่เคี่ยวในน้ำพะโล้รสเค็มหวานจนนุ่ม"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/khao-kha-mu.jpg",
+      "width": 960,
+      "height": 960,
+      "alt": {
+        "en": "Braised pork leg over rice with egg and greens",
+        "th": "ข้าวขาหมูพร้อมไข่และผัก"
+      },
+      "credit": {
+        "name": "Khao kha mu 02.JPG — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Khao_kha_mu_02.JPG"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_kha_mu_02.JPG",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

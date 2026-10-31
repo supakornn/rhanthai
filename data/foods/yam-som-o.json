@@ -8,5 +8,24 @@
     "en": "Pomelo segments mixed with a tangy dressing, toasted coconut and savoury accompaniments.",
     "th": "เนื้อส้มโอคลุกน้ำยำรสเปรี้ยว มะพร้าวคั่ว และเครื่องยำ"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/yam-som-o.jpg",
+      "width": 636,
+      "height": 960,
+      "alt": {
+        "en": "Pomelo salad topped with peanuts and fried shallots",
+        "th": "ยำส้มโอโรยถั่วลิสงและหอมเจียว"
+      },
+      "credit": {
+        "name": "Yam som-o.JPG — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Yam_som-o.JPG"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yam_som-o.JPG",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

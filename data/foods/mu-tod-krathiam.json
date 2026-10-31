@@ -8,5 +8,24 @@
     "en": "Pork cooked with generous garlic and pepper, often topped with crisp fried garlic.",
     "th": "หมูทอดปรุงรสด้วยกระเทียมและพริกไทย มักโรยกระเทียมเจียว"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/mu-tod-krathiam.jpg",
+      "width": 960,
+      "height": 960,
+      "alt": {
+        "en": "Fried pork pieces topped with crisp garlic",
+        "th": "หมูทอดเป็นชิ้นโรยกระเทียมเจียว"
+      },
+      "credit": {
+        "name": "Mu thot krathiam.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Mu_thot_krathiam.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mu_thot_krathiam.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

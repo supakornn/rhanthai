@@ -8,5 +8,24 @@
     "en": "Rice noodles stir-fried with chillies, garlic, vegetables and fragrant holy basil.",
     "th": "เส้นข้าวผัดกับพริก กระเทียม ผัก และกะเพราให้รสเผ็ดหอม"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/pad-kee-mao.jpg",
+      "width": 960,
+      "height": 768,
+      "alt": {
+        "en": "Wide rice noodles stir-fried with meat, greens and chili",
+        "th": "ผัดขี้เมาเส้นใหญ่ใส่เนื้อสัตว์ ผัก และพริก"
+      },
+      "credit": {
+        "name": "Sen yai phat khi mao.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Sen_yai_phat_khi_mao.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sen_yai_phat_khi_mao.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

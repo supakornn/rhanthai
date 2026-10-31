@@ -8,5 +8,24 @@
     "en": "Water spinach quickly stir-fried with garlic, chillies and fermented soybean seasoning.",
     "th": "ผักบุ้งผัดไฟแรงกับกระเทียม พริก และเต้าเจี้ยว"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/pad-phak-bung.jpg",
+      "width": 960,
+      "height": 723,
+      "alt": {
+        "en": "Stir-fried water spinach stems and leaves on a white plate",
+        "th": "ผัดผักบุ้งทั้งก้านและใบบนจานสีขาว"
+      },
+      "credit": {
+        "name": "Pad Pak Bung (Morning glory) - Thai Street Food, Worthing 2026-08-21.jpg — Andy Li. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Pad_Pak_Bung_(Morning_glory)_-_Thai_Street_Food,_Worthing_2026-08-21.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pad_Pak_Bung_(Morning_glory)_-_Thai_Street_Food,_Worthing_2026-08-21.jpg",
+      "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    }
+  ]
 }

@@ -8,5 +8,24 @@
     "en": "A spicy, tangy soup commonly made with pork ribs and aromatic herbs.",
     "th": "ซุปรสเปรี้ยวเผ็ด มักปรุงกับซี่โครงหมูและสมุนไพร"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/tom-saep.jpg",
+      "width": 960,
+      "height": 643,
+      "alt": {
+        "en": "Hot and sour meat soup in a metal hotpot",
+        "th": "ต้มแซ่บใส่เนื้อสัตว์ในหม้อไฟโลหะ"
+      },
+      "credit": {
+        "name": "Tom saep.JPG — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Tom_saep.JPG"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_saep.JPG",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

@@ -8,5 +8,24 @@
     "en": "Coconut curry made with green curry paste, often simmered with meat, eggplant and Thai basil.",
     "th": "แกงกะทิที่ใช้พริกแกงเขียวหวาน มักใส่เนื้อสัตว์ มะเขือ และโหระพา"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/gaeng-khiao-wan.jpg",
+      "width": 960,
+      "height": 642,
+      "alt": {
+        "en": "Green chicken curry in a bowl beside pieces of roti",
+        "th": "แกงเขียวหวานไก่ในถ้วยเคียงโรตีหั่นชิ้น"
+      },
+      "credit": {
+        "name": "Thai green chicken curry and roti.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Thai_green_chicken_curry_and_roti.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thai_green_chicken_curry_and_roti.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

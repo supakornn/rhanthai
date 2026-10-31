@@ -8,5 +8,24 @@
     "en": "A slow-cooked pork curry with ginger, garlic and a tangy tamarind seasoning.",
     "th": "แกงหมูเคี่ยวจนนุ่ม ใส่ขิง กระเทียม และมะขามเปียกให้รสเปรี้ยว"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/gaeng-hang-le.jpg",
+      "width": 766,
+      "height": 960,
+      "alt": {
+        "en": "Gaeng hang le pork curry in a small bowl beside rice",
+        "th": "แกงฮังเลหมูในถ้วยเล็กเคียงข้าว"
+      },
+      "credit": {
+        "name": "Kaeng hangle.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Kaeng_hangle.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaeng_hangle.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

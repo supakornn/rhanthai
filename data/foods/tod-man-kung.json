@@ -8,5 +8,24 @@
     "en": "Seasoned shrimp formed into cakes and fried with a crisp breadcrumb coating.",
     "th": "เนื้อกุ้งบดปรุงรสปั้นเป็นชิ้น คลุกเกล็ดขนมปังแล้วทอดให้กรอบ"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/tod-man-kung.jpg",
+      "width": 960,
+      "height": 960,
+      "alt": {
+        "en": "Breaded shrimp cakes beside a small bowl of dipping sauce",
+        "th": "ทอดมันกุ้งชุบเกล็ดขนมปังเคียงถ้วยน้ำจิ้ม"
+      },
+      "credit": {
+        "name": "Thot man kung.jpg — chomjong. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Thot_man_kung.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thot_man_kung.jpg",
+      "license": {
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      }
+    }
+  ]
 }

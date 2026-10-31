@@ -8,5 +8,24 @@
     "en": "Coconut-milk ice cream, commonly served with toppings such as peanuts or sticky rice.",
     "th": "ไอศกรีมทำจากกะทิ มักเสิร์ฟกับเครื่องโรย เช่น ถั่วลิสงหรือข้าวเหนียว"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/itim-kathi.jpg",
+      "width": 759,
+      "height": 960,
+      "alt": {
+        "en": "Coconut ice cream in a glass cup with peanuts",
+        "th": "ไอศกรีมกะทิในถ้วยแก้วพร้อมถั่วลิสง"
+      },
+      "credit": {
+        "name": "Coconut Ice Cream 2018-08-03 (1).jpg — Index Librorum Permissorum. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Coconut_Ice_Cream_2018-08-03_(1).jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coconut_Ice_Cream_2018-08-03_(1).jpg",
+      "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    }
+  ]
 }

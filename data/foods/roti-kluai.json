@@ -8,5 +8,24 @@
     "en": "Pan-fried roti folded around banana and egg, often finished with condensed milk.",
     "th": "แป้งโรตีห่อกล้วยและไข่ทอดบนกระทะ มักราดนมข้นหวาน"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/roti-kluai.jpg",
+      "width": 960,
+      "height": 693,
+      "alt": {
+        "en": "Golden banana roti cut into squares on a patterned plate",
+        "th": "โรตีกล้วยสีเหลืองทองตัดเป็นชิ้นบนจานลาย"
+      },
+      "credit": {
+        "name": "Roti kluai khai chiang mai 04.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Roti_kluai_khai_chiang_mai_04.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roti_kluai_khai_chiang_mai_04.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

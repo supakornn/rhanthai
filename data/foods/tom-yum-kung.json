@@ -8,5 +8,24 @@
     "en": "Hot-and-sour shrimp soup scented with lemongrass, galangal and makrut lime leaves.",
     "th": "ต้มยำกุ้งรสเปรี้ยวเผ็ด หอมตะไคร้ ข่า และใบมะกรูด"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/tom-yum-kung.jpg",
+      "width": 960,
+      "height": 636,
+      "alt": {
+        "en": "Orange-red tom yum broth with prawns and herbs",
+        "th": "ต้มยำกุ้งน้ำสีส้มแดงใส่สมุนไพร"
+      },
+      "credit": {
+        "name": "Tom yam kung maenam.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Tom_yam_kung_maenam.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_yam_kung_maenam.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

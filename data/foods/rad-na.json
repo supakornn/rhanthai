@@ -8,5 +8,24 @@
     "en": "Rice noodles covered with a thick savoury gravy containing Chinese broccoli and meat.",
     "th": "เส้นข้าวราดน้ำปรุงรสข้น ใส่คะน้าและเนื้อสัตว์"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/rad-na.jpg",
+      "width": 960,
+      "height": 720,
+      "alt": {
+        "en": "Wide rice noodles and green vegetables covered with brown gravy",
+        "th": "เส้นใหญ่และผักสีเขียวราดน้ำราดหน้าสีน้ำตาล"
+      },
+      "credit": {
+        "name": "Kuay-tiew rad na.jpg — stu_spivack. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Kuay-tiew_rad_na.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuay-tiew_rad_na.jpg",
+      "license": {
+        "name": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    }
+  ]
 }

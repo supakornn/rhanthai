@@ -8,5 +8,24 @@
     "en": "Cooked minced meat tossed with herbs, lime, chilli and toasted rice powder.",
     "th": "เนื้อสัตว์สับรวนให้สุก คลุกสมุนไพร มะนาว พริก และข้าวคั่ว"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/larb.jpg",
+      "width": 960,
+      "height": 651,
+      "alt": {
+        "en": "Minced pork larb topped with mint beside raw vegetables",
+        "th": "ลาบหมูสับโรยสะระแหน่เคียงผักสด"
+      },
+      "credit": {
+        "name": "Lap mu isan.JPG — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Lap_mu_isan.JPG"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lap_mu_isan.JPG",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }

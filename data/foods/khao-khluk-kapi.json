@@ -8,5 +8,24 @@
     "en": "Shrimp-paste-seasoned rice served with accompaniments such as sweet pork, shredded mango and egg.",
     "th": "ข้าวคลุกกะปิ เสิร์ฟพร้อมเครื่องเคียง เช่น หมูหวาน มะม่วงซอย และไข่ฝอย"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/khao-khluk-kapi.jpg",
+      "width": 960,
+      "height": 735,
+      "alt": {
+        "en": "Shrimp-paste rice surrounded by sliced egg, pork and vegetables",
+        "th": "ข้าวคลุกกะปิเคียงไข่ฝอย หมู และผัก"
+      },
+      "credit": {
+        "name": "Khao khluk kapi, Bangkok, 2017-11-20.jpg — Bitterschoko. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Khao_khluk_kapi,_Bangkok,_2017-11-20.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_khluk_kapi,_Bangkok,_2017-11-20.jpg",
+      "license": {
+        "name": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    }
+  ]
 }

@@ -49,7 +49,12 @@ describe("production catalogue editorial invariants", () => {
         expect(field.en.trim(), food.id).toBe(field.en);
         expect(field.th.trim(), food.id).toBe(field.th);
       }
-      expect(food.photos, food.id).toEqual([]);
+      expect(food.photos.length, food.id).toBeLessThanOrEqual(1);
+      for (const photo of food.photos) {
+        expect(photo.alt.en, food.id).toMatch(/[A-Za-z]/);
+        expect(photo.alt.th, food.id).toMatch(/[ก-๙]/);
+        expect(photo.alt.en, food.id).not.toBe(photo.alt.th);
+      }
     }
   });
 

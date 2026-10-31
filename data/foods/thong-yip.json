@@ -8,5 +8,24 @@
     "en": "An egg-yolk sweet formed into a small pinched flower shape.",
     "th": "ขนมไข่แดงจับจีบเป็นรูปดอกไม้ขนาดเล็ก"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/thong-yip.jpg",
+      "width": 960,
+      "height": 640,
+      "alt": {
+        "en": "Thong yip sweets before and after pinching, arranged on a metal tray",
+        "th": "ทองหยิบก่อนและหลังจับจีบวางบนถาดโลหะ"
+      },
+      "credit": {
+        "name": "ทองหยิบ.jpg — Praewdu. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A2%E0%B8%B4%E0%B8%9A.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A2%E0%B8%B4%E0%B8%9A.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
 }

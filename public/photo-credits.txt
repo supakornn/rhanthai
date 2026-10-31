@@ -1,0 +1,520 @@
+RhanThai catalogue photograph credits
+
+These third-party photographs are not covered by any code license. Each image
+remains under its own license below. CC BY-SA derivatives retain that license.
+CC0 creator credits are supplied as a courtesy.
+
+Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+The food API also supplies source, credit and license links for each photograph.
+Do not remove those notices when reusing the images.
+
+bua-loi | /photos/bua-loi.jpg
+Bua loi - 2009-08-01 - 001.jpg — Alpha. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Bua_loi_-_2009-08-01_-_001.jpg
+License: CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+chu-chi-pla | /photos/chu-chi-pla.jpg
+Chuchi pla thu sot.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Chuchi_pla_thu_sot.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+foi-thong | /photos/foi-thong.jpg
+Foi thong.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Foi_thong.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gaeng-hang-le | /photos/gaeng-hang-le.jpg
+Kaeng hangle.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Kaeng_hangle.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gaeng-jued | /photos/gaeng-jued.jpg
+Tom jued tahoo.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Tom_jued_tahoo.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gaeng-kari | /photos/gaeng-kari.jpg
+Kaeng kari kai.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Kaeng_kari_kai.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gaeng-khanun | /photos/gaeng-khanun.jpg
+Kaeng kanun.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Kaeng_kanun.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gaeng-khiao-wan | /photos/gaeng-khiao-wan.jpg
+Thai green chicken curry and roti.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Thai_green_chicken_curry_and_roti.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gaeng-liang | /photos/gaeng-liang.jpg
+แกงเลียง.jpg — Phuphiphat Phumi. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:%E0%B9%81%E0%B8%81%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%87.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gaeng-massaman | /photos/gaeng-massaman.jpg
+Gaeng massaman, restaurant tailandés, Xàbia.jpg — Joanbanjo. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Gaeng_massaman,_restaurant_tailand%C3%A9s,_X%C3%A0bia.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gaeng-pa | /photos/gaeng-pa.jpg
+Fish Jungle Curry (8644200729).jpg — Charles Haynes. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Fish_Jungle_Curry_(8644200729).jpg
+License: CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gaeng-phet | /photos/gaeng-phet.jpg
+Kaeng phet mu.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Kaeng_phet_mu.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gaeng-som | /photos/gaeng-som.jpg
+Kaeng som kung.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Kaeng_som_kung.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gai-pad-met-mamuang | /photos/gai-pad-met-mamuang.jpg
+Cashewchickenphoto.jpg — Simon Law from Montréal, QC, Canada. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Cashewchickenphoto.jpg
+License: CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gai-tod-hat-yai | /photos/gai-tod-hat-yai.jpg
+Hatyai-style-fried chicken (ไก่ทอดหาดใหญ่) (48908712316).jpg — Vee Satayamas from Bangkok, Thailand. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Hatyai-style-fried_chicken_(%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%94%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88)_(48908712316).jpg
+License: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+gai-yang | /photos/gai-yang.jpg
+Kai yang.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Kai_yang.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+ho-mok-pla | /photos/ho-mok-pla.jpg
+Ho mok pla.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Ho_mok_pla.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+itim-kathi | /photos/itim-kathi.jpg
+Coconut Ice Cream 2018-08-03 (1).jpg — Index Librorum Permissorum. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Coconut_Ice_Cream_2018-08-03_(1).jpg
+License: CC0 — https://creativecommons.org/publicdomain/zero/1.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+jok | /photos/jok.jpg
+Jok mu sap.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Jok_mu_sap.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+kari-pap | /photos/kari-pap.jpg
+Karipap Chiang Mai.jpg — Takeaway.. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Karipap_Chiang_Mai.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khai-phalo | /photos/khai-phalo.jpg
+ไข่พะโล้ (9042871426).jpg — Vee Satayamas from Bangkok, Thailand. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%9E%E0%B8%B0%E0%B9%82%E0%B8%A5%E0%B9%89_(9042871426).jpg
+License: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khanom-chin-nam-ngiao | /photos/khanom-chin-nam-ngiao.jpg
+Khanom chin nam ngiao.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khanom_chin_nam_ngiao.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khanom-chin-nam-ya | /photos/khanom-chin-nam-ya.jpg
+2017 0426 Khanom chin nam ya Ayutthaya market 01.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:2017_0426_Khanom_chin_nam_ya_Ayutthaya_market_01.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khanom-khai-tao | /photos/khanom-khai-tao.jpg
+ขนมไข่นกกระทา.jpg — ยุทธนาสาระขันธ์. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khanom-krok | /photos/khanom-krok.jpg
+Khanom khrok.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khanom_khrok.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khanom-mo-kaeng | /photos/khanom-mo-kaeng.jpg
+Mo kaeng.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Mo_kaeng.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khanom-phing | /photos/khanom-phing.jpg
+ขนมผิง.jpg — ยุทธนาสาระขันธ์. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%9C%E0%B8%B4%E0%B8%87.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-kha-mu | /photos/khao-kha-mu.jpg
+Khao kha mu 02.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khao_kha_mu_02.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-khluk-kapi | /photos/khao-khluk-kapi.jpg
+Khao khluk kapi, Bangkok, 2017-11-20.jpg — Bitterschoko. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khao_khluk_kapi,_Bangkok,_2017-11-20.jpg
+License: CC0 — https://creativecommons.org/publicdomain/zero/1.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-kriap-pak-mo | /photos/khao-kriap-pak-mo.jpg
+Sakhu Sai Mu and Khao Kriap Pak Mo.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Sakhu_Sai_Mu_and_Khao_Kriap_Pak_Mo.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-lam | /photos/khao-lam.jpg
+Khao lam ข้าวหลาม riz gluant cuit avec du lait de noix de coco dans un tube de bambou thailand.jpg — Renaudsechet. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khao_lam_%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A1_riz_gluant_cuit_avec_du_lait_de_noix_de_coco_dans_un_tube_de_bambou_thailand.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-man-gai | /photos/khao-man-gai.jpg
+Khao man gai.jpg — stu_spivack. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khao_man_gai.jpg
+License: CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-mok-gai | /photos/khao-mok-gai.jpg
+Khao mok kai.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khao_mok_kai.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-mu-daeng | /photos/khao-mu-daeng.jpg
+Khao mu daeng.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khao_mu_daeng.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-niao-mamuang | /photos/khao-niao-mamuang.jpg
+Mango sticky rice served in Thailand.jpg — Arthur Taksin. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Mango_sticky_rice_served_in_Thailand.jpg
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-pad | /photos/khao-pad.jpg
+Khao Pad (with prawn) - Nok Nok Kitchen at The Cow 2024-03-28.jpg — Andy Li. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khao_Pad_(with_prawn)_-_Nok_Nok_Kitchen_at_The_Cow_2024-03-28.jpg
+License: CC0 — https://creativecommons.org/publicdomain/zero/1.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-soi | /photos/khao-soi.jpg
+Khao soi Chiang Mai.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khao_soi_Chiang_Mai.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-tom | /photos/khao-tom.jpg
+Khao tom pla 01.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khao_tom_pla_01.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khao-yam | /photos/khao-yam.jpg
+2019 02 Khao yam unmixed.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:2019_02_Khao_yam_unmixed.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+khua-kling | /photos/khua-kling.jpg
+Khua kling.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khua_kling.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+kluai-buat-chi | /photos/kluai-buat-chi.jpg
+Kluai buat chi.jpg — Susan Slater. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Kluai_buat_chi.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+kluai-khaek | /photos/kluai-khaek.jpg
+Kluai thot.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Kluai_thot.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+kuai-tiao-khua-gai | /photos/kuai-tiao-khua-gai.jpg
+Noodles stir-fried with chicken - Bangkok - 2017-07-19 (002).jpg — Iudexvivorum. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Noodles_stir-fried_with_chicken_-_Bangkok_-_2017-07-19_(002).jpg
+License: CC0 — https://creativecommons.org/publicdomain/zero/1.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+kuai-tiao-ruea | /photos/kuai-tiao-ruea.jpg
+Boat noodles.jpg — Flickr user Alpha. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Boat_noodles.jpg
+License: CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+larb | /photos/larb.jpg
+Lap mu isan.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Lap_mu_isan.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+luk-chup | /photos/luk-chup.jpg
+154 - khanom luk chup.jpg — Susan Slater. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:154_-_khanom_luk_chup.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+mee-krob | /photos/mee-krob.jpg
+Mi krop - Bangkok - 2017-04-29 (004).jpg — Iudexvivorum. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Mi_krop_-_Bangkok_-_2017-04-29_(004).jpg
+License: CC0 — https://creativecommons.org/publicdomain/zero/1.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+miang-kham | /photos/miang-kham.jpg
+Miang kham platter.jpg — Jpatokal. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Miang_kham_platter.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+mu-manao | /photos/mu-manao.jpg
+Mu manao.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Mu_manao.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+mu-ping | /photos/mu-ping.jpg
+Mu ping.jpg — Phoebus 28. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Mu_ping.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+mu-satay | /photos/mu-satay.jpg
+Mu sate.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Mu_sate.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+mu-tod-krathiam | /photos/mu-tod-krathiam.jpg
+Mu thot krathiam.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Mu_thot_krathiam.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+nam-phrik-kapi | /photos/nam-phrik-kapi.jpg
+Vegetable platter with nam phrik kapi.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Vegetable_platter_with_nam_phrik_kapi.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+nam-phrik-num | /photos/nam-phrik-num.jpg
+Nam phrik num.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Nam_phrik_num.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+nam-tok | /photos/nam-tok.jpg
+Nuea yang nam tok.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Nuea_yang_nam_tok.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+pad-kee-mao | /photos/pad-kee-mao.jpg
+Sen yai phat khi mao.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Sen_yai_phat_khi_mao.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+pad-kra-pao | /photos/pad-kra-pao.jpg
+Kraphao mu khai dao.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Kraphao_mu_khai_dao.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+pad-phak-bung | /photos/pad-phak-bung.jpg
+Pad Pak Bung (Morning glory) - Thai Street Food, Worthing 2026-08-21.jpg — Andy Li. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Pad_Pak_Bung_(Morning_glory)_-_Thai_Street_Food,_Worthing_2026-08-21.jpg
+License: CC0 — https://creativecommons.org/publicdomain/zero/1.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+pad-see-ew | /photos/pad-see-ew.jpg
+Pad See Ew - Bangkok.jpg — Vee Satayamas. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Pad_See_Ew_-_Bangkok.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+pad-thai | /photos/pad-thai.jpg
+Phat Thai kung Chang Khien street stall.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+pad-woon-sen | /photos/pad-woon-sen.jpg
+Fried cellophane noodles with shrimp Pad woon sen kung.jpg — Sakurai Midori. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Fried_cellophane_noodles_with_shrimp_Pad_woon_sen_kung.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+phanaeng | /photos/phanaeng.jpg
+Phanaeng mu.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Phanaeng_mu.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+pla-tod-khamin | /photos/pla-tod-khamin.jpg
+Pla sai daeng thot.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Pla_sai_daeng_thot.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+pu-pad-phong-kari | /photos/pu-pad-phong-kari.jpg
+Pu Phat Phong Kari.jpg — User:Takoradee. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Pu_Phat_Phong_Kari.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+rad-na | /photos/rad-na.jpg
+Kuay-tiew rad na.jpg — stu_spivack. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Kuay-tiew_rad_na.jpg
+License: CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+roti-kluai | /photos/roti-kluai.jpg
+Roti kluai khai chiang mai 04.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Roti_kluai_khai_chiang_mai_04.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+sai-ua | /photos/sai-ua.jpg
+Sai ua.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Sai_ua.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+sakhu-sai-mu | /photos/sakhu-sai-mu.jpg
+Sakhu sai mu - 2009-03-13 - 001.jpg — Alpha. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Sakhu_sai_mu_-_2009-03-13_-_001.jpg
+License: CC BY-SA 2.0 — https://creativecommons.org/licenses/by-sa/2.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+sangkhaya-fak-thong | /photos/sangkhaya-fak-thong.jpg
+Sangkhaya fak thong.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Sangkhaya_fak_thong.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+som-tam | /photos/som-tam.jpg
+Som Tam green papaya salad, Bangkok, Thailand.jpg — Vyacheslav Argenberg. Resized and JPEG re-encoded; no crop. © Vyacheslav Argenberg
+Source: https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+tako | /photos/tako.jpg
+Khanom tako sai.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Khanom_tako_sai.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+thap-thim-krop | /photos/thap-thim-krop.jpg
+ทับทิมกรอบ.jpg — Isriya Paireepairit from Sheffield, United Kingdom. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A.jpg
+License: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+thong-yip | /photos/thong-yip.jpg
+ทองหยิบ.jpg — Praewdu. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A2%E0%B8%B4%E0%B8%9A.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+thong-yot | /photos/thong-yot.jpg
+ขนมทองหยอด.jpg — Praewdu. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A2%E0%B8%AD%E0%B8%94.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+tod-man-kung | /photos/tod-man-kung.jpg
+Thot man kung.jpg — chomjong. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Thot_man_kung.jpg
+License: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+tod-man-pla | /photos/tod-man-pla.jpg
+Thanin market tod man pla.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Thanin_market_tod_man_pla.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+tom-kha-gai | /photos/tom-kha-gai.jpg
+Tom Kha Kai in Phra Nakhon District, Bangkok, Thailand.jpg — Globe-trotter. Resized and JPEG re-encoded; no crop. User: (WT-shared) Globe-trotter at  wts wikivoyage
+Source: https://commons.wikimedia.org/wiki/File:Tom_Kha_Kai_in_Phra_Nakhon_District,_Bangkok,_Thailand.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+tom-saep | /photos/tom-saep.jpg
+Tom saep.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Tom_saep.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+tom-yum-kung | /photos/tom-yum-kung.jpg
+Tom yam kung maenam.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Tom_yam_kung_maenam.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+yam-khai-dao | /photos/yam-khai-dao.jpg
+Yam khai dao.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Yam_khai_dao.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+yam-naem-khao-tod | /photos/yam-naem-khao-tod.jpg
+Naem khluk 1.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Naem_khluk_1.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+yam-som-o | /photos/yam-som-o.jpg
+Yam som-o.JPG — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Yam_som-o.JPG
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+yam-thua-phu | /photos/yam-thua-phu.jpg
+Yam thua phu.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Yam_thua_phu.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+yam-woon-sen | /photos/yam-woon-sen.jpg
+Yam wunsen.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:Yam_wunsen.jpg
+License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+
+yen-ta-fo | /photos/yen-ta-fo.jpg
+2019 01 Yen tafo.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
+Source: https://commons.wikimedia.org/wiki/File:2019_01_Yen_tafo.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.

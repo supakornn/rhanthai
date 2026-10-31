@@ -8,5 +8,24 @@
     "en": "Marinated chicken grilled until browned, commonly served with a chilli dipping sauce.",
     "th": "ไก่หมักเครื่องปรุงแล้วย่างจนผิวเกรียมหอม มักเสิร์ฟพร้อมน้ำจิ้มพริก"
   },
-  "photos": []
+  "photos": [
+    {
+      "path": "/photos/gai-yang.jpg",
+      "width": 848,
+      "height": 960,
+      "alt": {
+        "en": "Grilled chicken pieces with browned skin on a plate",
+        "th": "ไก่ย่างหนังสีน้ำตาลบนจาน"
+      },
+      "credit": {
+        "name": "Kai yang.JPG — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Kai_yang.JPG"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kai_yang.JPG",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
 }
