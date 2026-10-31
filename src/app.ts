@@ -9,7 +9,7 @@ import {
   QueryError,
 } from "./foods";
 import { errorResponse, json, methodResponse, withoutBody } from "./http";
-import { headResponses, preflightResponse, queryRules } from "./documentation";
+import { headResponses, preflightResponse } from "./documentation";
 import {
   detailQuerySchema,
   errorSchema,
@@ -69,7 +69,7 @@ export function createApp(
             title: "RhanThai API",
             version: "1.0.0",
             description:
-              "A public, read-only Thai food catalogue with Thai and English descriptions and credited photos. No API key required.",
+              "Explore Thai food in English and Thai. No API key required.",
           },
           servers: [{ url: "/" }],
           security: [],
@@ -131,7 +131,7 @@ export function createApp(
       detail: {
         operationId: "listFoods",
         summary: "List Thai foods",
-        description: `Sorted by ASCII ID ascending. Pages beyond the end return an empty data array. ${queryRules}`,
+        description: "Browse Thai foods with pagination, sorted by ID.",
       },
       query: listQuerySchema,
       response: { 200: "FoodList", 400: "Error", 405: "Error", 500: "Error" },
@@ -143,7 +143,7 @@ export function createApp(
         detail: {
           operationId: "getFood",
           summary: "Get a Thai food",
-          description: `IDs stay the same across languages. Query validation happens before lookup. ${queryRules}`,
+          description: "Get a Thai food by its ID.",
         },
         query: detailQuerySchema,
         response: {

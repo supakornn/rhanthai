@@ -1,6 +1,3 @@
-export const queryRules =
-  "English is the default language. Unknown, empty, duplicate, or malformed query parameters return 400. Trailing slashes return 404. Error messages are English diagnostics; clients should use error.code. All API responses allow wildcard CORS without credentials and use Cache-Control: no-store.";
-
 export const headResponses = {
   200: { description: "GET status and headers without a body" },
   400: { description: "Invalid query; no body" },
