@@ -16,7 +16,9 @@ const license = t.Object(
 );
 
 export const languageSchema = t.Union([t.Literal("en"), t.Literal("th")]);
+
 export type Language = Static<typeof languageSchema>;
+
 export const storedPhotoSchema = t.Object(
   {
     path: t.String({
@@ -31,6 +33,7 @@ export const storedPhotoSchema = t.Object(
   },
   { additionalProperties: false },
 );
+
 export const storedFoodSchema = t.Object(
   {
     id: t.String({ pattern: "^[a-z0-9]+(?:-[a-z0-9]+)*$" }),
@@ -40,7 +43,9 @@ export const storedFoodSchema = t.Object(
   },
   { additionalProperties: false },
 );
+
 export type StoredFood = Static<typeof storedFoodSchema>;
+
 export type Food = {
   id: string;
   name: string;

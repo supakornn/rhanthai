@@ -7,6 +7,7 @@ import {
 } from "./schemas";
 
 export class QueryError extends Error {}
+
 export type FoodQuery = { lang: Language; page: number; limit: number };
 
 export function parseQuery(
@@ -14,18 +15,28 @@ export function parseQuery(
   isList: boolean,
 ): FoodQuery {
   const allowed = isList ? ["lang", "page", "limit"] : ["lang"];
+
   for (const key of params.keys()) {
     if (!allowed.includes(key) || params.getAll(key).length !== 1) {
       throw new QueryError("Unknown or repeated query parameter.");
     }
   }
+
   const lang = params.get("lang") ?? "en";
-  if (!Value.Check(languageSchema, lang))
+
+  if (!Value.Check(languageSchema, lang)) {
     throw new QueryError("lang must be one of: en, th.");
+  }
+
   const integer = (key: string, fallback: number, maximum: number): number => {
     const raw = params.get(key);
-    if (raw === null) return fallback;
+
+    if (raw === null) {
+      return fallback;
+    }
+
     const value = Number(raw);
+
     if (
       !/^[0-9]+$/.test(raw) ||
       !Number.isSafeInteger(value) ||
@@ -34,8 +45,10 @@ export function parseQuery(
     ) {
       throw new QueryError(`${key} must be an integer from 1 to ${maximum}.`);
     }
+
     return value;
   };
+
   return {
     lang,
     page: integer("page", 1, Number.MAX_SAFE_INTEGER),
@@ -82,6 +95,7 @@ export function listFoods(
   const sorted = foods.toSorted((a, b) =>
     a.id < b.id ? -1 : a.id > b.id ? 1 : 0,
   );
+
   return {
     data: sorted
       .slice(offset, offset + query.limit)
