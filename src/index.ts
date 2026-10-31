@@ -6,11 +6,14 @@ const bindings = env as unknown as {
   PUBLIC_ORIGIN: string;
   APP_REVISION?: string;
 };
+
 const app = createApp(
   () => catalogue,
   () => {
-    if (!bindings.PUBLIC_ORIGIN)
+    if (!bindings.PUBLIC_ORIGIN) {
       throw new Error("PUBLIC_ORIGIN must be configured");
+    }
+
     return bindings.PUBLIC_ORIGIN;
   },
 );
@@ -22,6 +25,7 @@ export default {
       "X-RhanThai-Revision",
       bindings.APP_REVISION ?? "local",
     );
+
     return response;
   },
 };

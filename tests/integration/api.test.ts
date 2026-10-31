@@ -43,7 +43,9 @@ describe("food API", () => {
     expect(th.data.id).toBe(en.data.id);
     expect(th.data.photos).toHaveLength(1);
     const stored = catalogue.find((food) => food.id === "khao-soi");
-    if (!stored) throw new Error("Missing khao soi");
+    if (!stored) {
+      throw new Error("Missing khao soi");
+    }
     expect(en.data.photos).toEqual(
       stored.photos.map(({ path, alt, ...metadata }) => ({
         ...metadata,
@@ -64,6 +66,44 @@ describe("food API", () => {
     ).json()) as { data: unknown[] };
     expect(list.data[0]).toEqual(th.data);
   });
+  it.each(["khao-soi", "pad-thai", "som-tam"])(
+    "includes a credited, localized photo for %s",
+    async (id) => {
+      const en = (await (await get(`/api/v1/foods/${id}`)).json()) as {
+        data: Food;
+      };
+      const th = (await (
+        await get(`/api/v1/foods/${id}?lang=th`)
+      ).json()) as typeof en;
+
+      expect(en.data.photos).toHaveLength(1);
+      expect(th.data.photos).toHaveLength(1);
+
+      const photo = en.data.photos[0];
+      const translated = th.data.photos[0];
+
+      expect(photo).toMatchObject({
+        url: `https://rhanthai.supakorn.me/photos/${id}.webp`,
+        width: 1280,
+        height: 960,
+        credit: {
+          name: expect.any(String),
+          url: expect.stringMatching(/^https:\/\//),
+        },
+        sourceUrl: expect.stringMatching(/^https:\/\/commons.wikimedia.org\//),
+        license: {
+          name: expect.stringMatching(/^CC BY /),
+          url: expect.stringMatching(
+            /^https:\/\/creativecommons.org\/licenses\/by\//,
+          ),
+        },
+      });
+      expect(photo?.alt).toMatch(/[A-Za-z]/);
+      expect(translated?.alt).toMatch(/[ก-๙]/);
+      expect(translated).toEqual({ ...photo, alt: translated?.alt });
+    },
+  );
+
   it("paginates and returns an empty beyond-end page", async () => {
     const response = await get("/api/v1/foods?page=2&limit=2");
     expect(await response.json()).toMatchObject({

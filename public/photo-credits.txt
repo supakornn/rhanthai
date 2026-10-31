@@ -4,7 +4,7 @@ These third-party photographs are not covered by any code license. Each image
 remains under its own license below. CC BY-SA derivatives retain that license.
 CC0 creator credits are supplied as a courtesy.
 
-Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+Modification details are listed per image. Each derivative retains its source license.
 
 The food API also supplies source, credit and license links for each photograph.
 Do not remove those notices when reusing the images.
@@ -225,11 +225,12 @@ Source: https://commons.wikimedia.org/wiki/File:Khao_Pad_(with_prawn)_-_Nok_Nok_
 License: CC0 — https://creativecommons.org/publicdomain/zero/1.0/
 Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
 
-khao-soi | /photos/khao-soi.jpg
-Khao soi Chiang Mai.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
-Source: https://commons.wikimedia.org/wiki/File:Khao_soi_Chiang_Mai.jpg
-License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+khao-soi | /photos/khao-soi.webp
+Khao Soi 01 — Douglas Perkins (resized and converted to WebP)
+Creator: https://commons.wikimedia.org/wiki/User:Douglaspperkins
+Source: https://commons.wikimedia.org/wiki/File:Khao_Soi_01.jpg
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Changes: Resized and converted to WebP; the derivative retains the source license.
 
 khao-tom | /photos/khao-tom.jpg
 Khao tom pla 01.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
@@ -363,11 +364,12 @@ Source: https://commons.wikimedia.org/wiki/File:Pad_See_Ew_-_Bangkok.jpg
 License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
 Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
 
-pad-thai | /photos/pad-thai.jpg
-Phat Thai kung Chang Khien street stall.jpg — Takeaway. Resized and JPEG re-encoded; no crop.
-Source: https://commons.wikimedia.org/wiki/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg
-License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
-Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+pad-thai | /photos/pad-thai.webp
+Pad Thai in Thailand — Douglas Perkins (resized and converted to WebP)
+Creator: https://commons.wikimedia.org/wiki/User:Douglaspperkins
+Source: https://commons.wikimedia.org/wiki/File:Pad_Thai_in_Thailand.jpg
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Changes: Resized and converted to WebP; the derivative retains the source license.
 
 pad-woon-sen | /photos/pad-woon-sen.jpg
 Fried cellophane noodles with shrimp Pad woon sen kung.jpg — Sakurai Midori. Resized and JPEG re-encoded; no crop.
@@ -423,11 +425,12 @@ Source: https://commons.wikimedia.org/wiki/File:Sangkhaya_fak_thong.JPG
 License: CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
 Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
 
-som-tam | /photos/som-tam.jpg
-Som Tam green papaya salad, Bangkok, Thailand.jpg — Vyacheslav Argenberg. Resized and JPEG re-encoded; no crop. © Vyacheslav Argenberg
-Source: https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg
-License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-Changes: Resized to at most 960 pixels on the longest side, EXIF metadata removed, and JPEG re-encoded; no cropping. The derivative retains the source license.
+som-tam | /photos/som-tam.webp
+Som tam — lazy fri13th (resized and converted to WebP)
+Creator: https://www.flickr.com/photos/fri13th/
+Source: https://commons.wikimedia.org/wiki/File:Som_tam.jpg
+License: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/
+Changes: Resized and converted to WebP; the derivative retains the source license.
 
 tako | /photos/tako.jpg
 Khanom tako sai.jpg — Takeaway. Resized and JPEG re-encoded; no crop.

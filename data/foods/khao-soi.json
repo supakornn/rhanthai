@@ -10,21 +10,21 @@
   },
   "photos": [
     {
-      "path": "/photos/khao-soi.jpg",
-      "width": 960,
-      "height": 636,
+      "path": "/photos/khao-soi.webp",
+      "width": 1280,
+      "height": 960,
       "alt": {
-        "en": "Khao soi curry noodles topped with crisp noodles beside condiments",
-        "th": "ข้าวซอยโรยเส้นทอดกรอบเคียงเครื่องปรุง"
+        "en": "A bowl of khao soi topped with crispy noodles and chicken in orange curry broth.",
+        "th": "ข้าวซอยในชาม น้ำแกงสีส้ม มีไก่และบะหมี่ทอดกรอบด้านบน"
       },
       "credit": {
-        "name": "Khao soi Chiang Mai.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
-        "url": "https://commons.wikimedia.org/wiki/File:Khao_soi_Chiang_Mai.jpg"
+        "name": "Khao Soi 01 — Douglas Perkins (resized and converted to WebP)",
+        "url": "https://commons.wikimedia.org/wiki/User:Douglaspperkins"
       },
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_soi_Chiang_Mai.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_Soi_01.jpg",
       "license": {
-        "name": "CC BY-SA 3.0",
-        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
       }
     }
   ]

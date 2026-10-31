@@ -40,7 +40,9 @@ describe("localization", () => {
       "https://rhanthai.supakorn.me/photos/soup.webp",
     );
     const photo = th.photos[0];
-    if (!photo) throw new Error("Expected fixture photo");
+    if (!photo) {
+      throw new Error("Expected fixture photo");
+    }
     photo.credit.name = "Changed";
     expect(food).toEqual(original);
   });

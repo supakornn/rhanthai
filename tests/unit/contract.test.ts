@@ -16,12 +16,13 @@ describe("OpenAPI response contract", () => {
           ),
         ),
       ).toBe(true);
-      for (const food of catalogue)
+      for (const food of catalogue) {
         expect(
           validators.FoodDetail({
             data: localizeFood(food, lang, "https://example.com"),
           }),
         ).toBe(true);
+      }
     }
   });
   it("rejects missing fields, invalid photos, and undocumented errors", () => {
