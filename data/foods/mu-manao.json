@@ -1,0 +1,31 @@
+{
+  "id": "mu-manao",
+  "name": {
+    "en": "Moo manao",
+    "th": "หมูมะนาว"
+  },
+  "description": {
+    "en": "Thin slices of cooked pork dressed with a sharp lime, garlic and chilli sauce.",
+    "th": "หมูลวกหั่นบางราดน้ำปรุงมะนาว กระเทียม และพริกรสเปรี้ยวเผ็ด"
+  },
+  "photos": [
+    {
+      "path": "/photos/mu-manao.jpg",
+      "width": 960,
+      "height": 643,
+      "alt": {
+        "en": "Sliced pork with chili, garlic and greens in lime dressing",
+        "th": "หมูมะนาวหั่นชิ้นพร้อมพริก กระเทียม และผัก"
+      },
+      "credit": {
+        "name": "Mu manao.JPG — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Mu_manao.JPG"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mu_manao.JPG",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

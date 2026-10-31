@@ -1,0 +1,31 @@
+{
+  "id": "khanom-mo-kaeng",
+  "name": {
+    "en": "Khanom mo kaeng",
+    "th": "ขนมหม้อแกง"
+  },
+  "description": {
+    "en": "A coconut and egg custard sweetened with palm sugar, with versions containing beans or taro.",
+    "th": "ขนมสังขยากะทิและไข่ปรุงหวานด้วยน้ำตาลโตนด มีสูตรใส่ถั่วหรือเผือก"
+  },
+  "photos": [
+    {
+      "path": "/photos/khanom-mo-kaeng.jpg",
+      "width": 636,
+      "height": 960,
+      "alt": {
+        "en": "Small trays of golden-brown khanom mo kaeng custard",
+        "th": "ขนมหม้อแกงหน้าสีน้ำตาลทองในถาดเล็ก"
+      },
+      "credit": {
+        "name": "Mo kaeng.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Mo_kaeng.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mo_kaeng.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

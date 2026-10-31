@@ -1,0 +1,31 @@
+{
+  "id": "thap-thim-krop",
+  "name": {
+    "en": "Thap thim krop (Tub tim krob)",
+    "th": "ทับทิมกรอบ"
+  },
+  "description": {
+    "en": "Water chestnut pieces in a chewy tapioca coating, served with sweet coconut milk and ice.",
+    "th": "แห้วหั่นชิ้นคลุกแป้งมันต้มให้สุก เสิร์ฟกับกะทิหวานและน้ำแข็ง"
+  },
+  "photos": [
+    {
+      "path": "/photos/thap-thim-krop.jpg",
+      "width": 640,
+      "height": 480,
+      "alt": {
+        "en": "Pink ruby-like water-chestnut pieces in a bowl",
+        "th": "ทับทิมกรอบสีชมพูในชาม"
+      },
+      "credit": {
+        "name": "ทับทิมกรอบ.jpg — Isriya Paireepairit from Sheffield, United Kingdom. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%97%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A.jpg",
+      "license": {
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
+      }
+    }
+  ]
+}

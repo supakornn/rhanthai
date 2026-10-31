@@ -1,0 +1,31 @@
+{
+  "id": "khao-niao-mamuang",
+  "name": {
+    "en": "Khao niao mamuang",
+    "th": "ข้าวเหนียวมะม่วง"
+  },
+  "description": {
+    "en": "Sweet coconut sticky rice served with ripe mango and a coconut sauce.",
+    "th": "ข้าวเหนียวมูนกะทิเสิร์ฟกับมะม่วงสุกและน้ำกะทิ"
+  },
+  "photos": [
+    {
+      "path": "/photos/khao-niao-mamuang.jpg",
+      "width": 960,
+      "height": 720,
+      "alt": {
+        "en": "Sliced ripe mango beside sticky rice and coconut sauce",
+        "th": "มะม่วงสุกหั่นชิ้นเคียงข้าวเหนียวและน้ำกะทิ"
+      },
+      "credit": {
+        "name": "Mango sticky rice served in Thailand.jpg — Arthur Taksin. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Mango_sticky_rice_served_in_Thailand.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mango_sticky_rice_served_in_Thailand.jpg",
+      "license": {
+        "name": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    }
+  ]
+}

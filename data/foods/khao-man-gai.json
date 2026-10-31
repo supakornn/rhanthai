@@ -1,0 +1,31 @@
+{
+  "id": "khao-man-gai",
+  "name": {
+    "en": "Khao man gai",
+    "th": "ข้าวมันไก่"
+  },
+  "description": {
+    "en": "Poached chicken over rice cooked in chicken stock and fat, served with a pungent dipping sauce.",
+    "th": "ไก่ต้มวางบนข้าวที่หุงกับน้ำซุปและมันไก่ เสิร์ฟพร้อมน้ำจิ้มรสเข้มข้น"
+  },
+  "photos": [
+    {
+      "path": "/photos/khao-man-gai.jpg",
+      "width": 960,
+      "height": 638,
+      "alt": {
+        "en": "Sliced chicken over rice with cucumber in a takeaway box",
+        "th": "ข้าวมันไก่หั่นชิ้นพร้อมแตงกวาในกล่องอาหาร"
+      },
+      "credit": {
+        "name": "Khao man gai.jpg — stu_spivack. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Khao_man_gai.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khao_man_gai.jpg",
+      "license": {
+        "name": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    }
+  ]
+}

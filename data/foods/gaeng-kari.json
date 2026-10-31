@@ -1,0 +1,31 @@
+{
+  "id": "gaeng-kari",
+  "name": {
+    "en": "Gaeng kari",
+    "th": "แกงกะหรี่"
+  },
+  "description": {
+    "en": "A yellow coconut curry with warm spices, commonly cooked with chicken and potatoes.",
+    "th": "แกงกะทิสีเหลืองหอมเครื่องเทศ มักปรุงกับไก่และมันฝรั่ง"
+  },
+  "photos": [
+    {
+      "path": "/photos/gaeng-kari.jpg",
+      "width": 702,
+      "height": 960,
+      "alt": {
+        "en": "Chicken and potato pieces in yellow curry",
+        "th": "ไก่และมันฝรั่งในแกงกะหรี่สีเหลือง"
+      },
+      "credit": {
+        "name": "Kaeng kari kai.JPG — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Kaeng_kari_kai.JPG"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaeng_kari_kai.JPG",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

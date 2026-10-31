@@ -1,0 +1,31 @@
+{
+  "id": "phanaeng",
+  "name": {
+    "en": "Phanaeng (Panang curry)",
+    "th": "พะแนง"
+  },
+  "description": {
+    "en": "A thick coconut curry coating pieces of meat, with the fragrance of makrut lime leaves.",
+    "th": "แกงกะทิน้ำขลุกขลิกเคลือบเนื้อสัตว์ หอมใบมะกรูด"
+  },
+  "photos": [
+    {
+      "path": "/photos/phanaeng.jpg",
+      "width": 960,
+      "height": 960,
+      "alt": {
+        "en": "Pork in thick phanaeng curry topped with shredded leaves",
+        "th": "พะแนงหมูน้ำแกงข้นโรยใบซอย"
+      },
+      "credit": {
+        "name": "Phanaeng mu.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Phanaeng_mu.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phanaeng_mu.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

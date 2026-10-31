@@ -1,0 +1,31 @@
+{
+  "id": "pu-pad-phong-kari",
+  "name": {
+    "en": "Pu pad phong kari",
+    "th": "ปูผัดผงกะหรี่"
+  },
+  "description": {
+    "en": "Crab stir-fried with curry powder and egg in a rich, savoury sauce.",
+    "th": "ปูผัดกับผงกะหรี่และไข่ในน้ำซอสรสเข้มข้น"
+  },
+  "photos": [
+    {
+      "path": "/photos/pu-pad-phong-kari.jpg",
+      "width": 960,
+      "height": 720,
+      "alt": {
+        "en": "Crab in yellow curry-powder sauce on a white platter",
+        "th": "ปูผัดผงกะหรี่ในซอสสีเหลืองบนจานเปลสีขาว"
+      },
+      "credit": {
+        "name": "Pu Phat Phong Kari.jpg — User:Takoradee. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Pu_Phat_Phong_Kari.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pu_Phat_Phong_Kari.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

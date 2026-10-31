@@ -1,0 +1,31 @@
+{
+  "id": "gaeng-massaman",
+  "name": {
+    "en": "Gaeng massaman",
+    "th": "แกงมัสมั่น"
+  },
+  "description": {
+    "en": "A coconut curry fragrant with dried spices, commonly containing slow-cooked meat, potatoes and peanuts.",
+    "th": "แกงกะทิหอมเครื่องเทศแห้ง มักใส่เนื้อสัตว์เคี่ยวจนนุ่ม มันฝรั่ง และถั่วลิสง"
+  },
+  "photos": [
+    {
+      "path": "/photos/gaeng-massaman.jpg",
+      "width": 960,
+      "height": 591,
+      "alt": {
+        "en": "Massaman curry topped with nuts on a white plate",
+        "th": "แกงมัสมั่นโรยถั่วบนจานสีขาว"
+      },
+      "credit": {
+        "name": "Gaeng massaman, restaurant tailandés, Xàbia.jpg — Joanbanjo. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Gaeng_massaman,_restaurant_tailand%C3%A9s,_X%C3%A0bia.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaeng_massaman,_restaurant_tailand%C3%A9s,_X%C3%A0bia.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

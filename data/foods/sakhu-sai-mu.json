@@ -1,0 +1,31 @@
+{
+  "id": "sakhu-sai-mu",
+  "name": {
+    "en": "Sakhu sai mu",
+    "th": "สาคูไส้หมู"
+  },
+  "description": {
+    "en": "Steamed tapioca-pearl dumplings with a sweet-savoury pork, peanut and preserved-radish filling.",
+    "th": "สาคูปั้นห่อไส้หมู ถั่วลิสง และไชโป๊รสเค็มหวาน แล้วนึ่งให้สุก"
+  },
+  "photos": [
+    {
+      "path": "/photos/sakhu-sai-mu.jpg",
+      "width": 960,
+      "height": 643,
+      "alt": {
+        "en": "Round translucent tapioca dumplings piled on banana leaf",
+        "th": "สาคูไส้หมูทรงกลมแป้งใสวางรวมบนใบตอง"
+      },
+      "credit": {
+        "name": "Sakhu sai mu - 2009-03-13 - 001.jpg — Alpha. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Sakhu_sai_mu_-_2009-03-13_-_001.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sakhu_sai_mu_-_2009-03-13_-_001.jpg",
+      "license": {
+        "name": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    }
+  ]
+}

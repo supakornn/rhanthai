@@ -1,0 +1,31 @@
+{
+  "id": "khanom-krok",
+  "name": {
+    "en": "Khanom krok",
+    "th": "ขนมครก"
+  },
+  "description": {
+    "en": "Small griddle-cooked rice and coconut cakes with crisp edges and creamy centres.",
+    "th": "ขนมแป้งข้าวกับกะทิหยอดหลุมเตาให้ขอบกรอบและตรงกลางนุ่ม"
+  },
+  "photos": [
+    {
+      "path": "/photos/khanom-krok.jpg",
+      "width": 726,
+      "height": 960,
+      "alt": {
+        "en": "Colorful khanom krok coconut cakes on banana leaf",
+        "th": "ขนมครกหลากสีวางบนใบตอง"
+      },
+      "credit": {
+        "name": "Khanom khrok.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Khanom_khrok.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khanom_khrok.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "pad-kra-pao",
+  "name": {
+    "en": "Pad kra pao",
+    "th": "ผัดกะเพรา"
+  },
+  "description": {
+    "en": "Meat or other protein stir-fried with garlic, chillies and holy basil, commonly eaten with rice.",
+    "th": "เนื้อสัตว์หรือวัตถุดิบอื่นผัดกับกระเทียม พริก และใบกะเพรา มักรับประทานกับข้าว"
+  },
+  "photos": [
+    {
+      "path": "/photos/pad-kra-pao.jpg",
+      "width": 960,
+      "height": 960,
+      "alt": {
+        "en": "Holy basil pork over rice beside a fried egg",
+        "th": "ข้าวราดผัดกะเพราหมูเคียงไข่ดาว"
+      },
+      "credit": {
+        "name": "Kraphao mu khai dao.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Kraphao_mu_khai_dao.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kraphao_mu_khai_dao.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

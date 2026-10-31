@@ -1,0 +1,31 @@
+{
+  "id": "pad-woon-sen",
+  "name": {
+    "en": "Pad woon sen",
+    "th": "ผัดวุ้นเส้น"
+  },
+  "description": {
+    "en": "Glass noodles stir-fried with egg, vegetables and savoury seasonings.",
+    "th": "วุ้นเส้นผัดกับไข่ ผัก และเครื่องปรุงรสเค็มกลมกล่อม"
+  },
+  "photos": [
+    {
+      "path": "/photos/pad-woon-sen.jpg",
+      "width": 960,
+      "height": 720,
+      "alt": {
+        "en": "Stir-fried glass noodles with shrimp and bean sprouts",
+        "th": "ผัดวุ้นเส้นใส่กุ้งและถั่วงอก"
+      },
+      "credit": {
+        "name": "Fried cellophane noodles with shrimp Pad woon sen kung.jpg — Sakurai Midori. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Fried_cellophane_noodles_with_shrimp_Pad_woon_sen_kung.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fried_cellophane_noodles_with_shrimp_Pad_woon_sen_kung.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

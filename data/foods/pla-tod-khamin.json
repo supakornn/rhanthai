@@ -1,0 +1,31 @@
+{
+  "id": "pla-tod-khamin",
+  "name": {
+    "en": "Pla tod khamin",
+    "th": "ปลาทอดขมิ้น"
+  },
+  "description": {
+    "en": "Fish seasoned with turmeric and garlic and fried until crisp.",
+    "th": "ปลาคลุกขมิ้นและกระเทียมปรุงรส แล้วทอดจนกรอบหอม"
+  },
+  "photos": [
+    {
+      "path": "/photos/pla-tod-khamin.jpg",
+      "width": 734,
+      "height": 960,
+      "alt": {
+        "en": "Whole fried fish covered with crisp turmeric and garlic",
+        "th": "ปลาทอดทั้งตัวโรยขมิ้นและกระเทียมกรอบ"
+      },
+      "credit": {
+        "name": "Pla sai daeng thot.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Pla_sai_daeng_thot.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pla_sai_daeng_thot.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

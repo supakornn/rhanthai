@@ -1,0 +1,31 @@
+{
+  "id": "khao-yam",
+  "name": {
+    "en": "Khao yam",
+    "th": "ข้าวยำ"
+  },
+  "description": {
+    "en": "Rice tossed with finely sliced herbs, vegetables and toasted coconut in a savoury dressing.",
+    "th": "ข้าวคลุกผักและสมุนไพรซอย มะพร้าวคั่ว และน้ำปรุงรสเค็มหวาน"
+  },
+  "photos": [
+    {
+      "path": "/photos/khao-yam.jpg",
+      "width": 960,
+      "height": 640,
+      "alt": {
+        "en": "Unmixed southern Thai rice salad with shredded vegetables and lime",
+        "th": "ข้าวยำปักษ์ใต้ก่อนคลุกพร้อมผักซอยและมะนาว"
+      },
+      "credit": {
+        "name": "2019 02 Khao yam unmixed.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:2019_02_Khao_yam_unmixed.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_02_Khao_yam_unmixed.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

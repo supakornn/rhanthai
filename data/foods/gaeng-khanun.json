@@ -1,0 +1,31 @@
+{
+  "id": "gaeng-khanun",
+  "name": {
+    "en": "Gaeng khanun",
+    "th": "แกงขนุน"
+  },
+  "description": {
+    "en": "A broth-based curry of young jackfruit, often cooked with pork ribs and tomatoes.",
+    "th": "แกงขนุนอ่อนแบบน้ำใส มักใส่ซี่โครงหมูและมะเขือเทศ"
+  },
+  "photos": [
+    {
+      "path": "/photos/gaeng-khanun.jpg",
+      "width": 960,
+      "height": 960,
+      "alt": {
+        "en": "Young jackfruit curry with vegetables on a plate",
+        "th": "แกงขนุนอ่อนใส่ผักในจาน"
+      },
+      "credit": {
+        "name": "Kaeng kanun.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Kaeng_kanun.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaeng_kanun.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

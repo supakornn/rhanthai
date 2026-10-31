@@ -1,0 +1,31 @@
+{
+  "id": "tako",
+  "name": {
+    "en": "Tako",
+    "th": "ตะโก้"
+  },
+  "description": {
+    "en": "Small layered puddings with a sweet starch base and a lightly salted coconut topping.",
+    "th": "ขนมถ้วยเล็กชั้นล่างเป็นแป้งกวนหวาน ชั้นบนเป็นกะทิรสเค็มอ่อน"
+  },
+  "photos": [
+    {
+      "path": "/photos/tako.jpg",
+      "width": 960,
+      "height": 960,
+      "alt": {
+        "en": "Small leaf cups filled with tako coconut pudding",
+        "th": "ตะโก้ในกระทงใบเตยขนาดเล็ก"
+      },
+      "credit": {
+        "name": "Khanom tako sai.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Khanom_tako_sai.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khanom_tako_sai.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

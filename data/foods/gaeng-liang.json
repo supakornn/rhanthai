@@ -1,0 +1,31 @@
+{
+  "id": "gaeng-liang",
+  "name": {
+    "en": "Gaeng liang",
+    "th": "แกงเลียง"
+  },
+  "description": {
+    "en": "A peppery vegetable soup with shrimp and aromatic lemon basil.",
+    "th": "แกงผักรสเผ็ดร้อนจากพริกไทย ใส่กุ้งและใบแมงลักให้กลิ่นหอม"
+  },
+  "photos": [
+    {
+      "path": "/photos/gaeng-liang.jpg",
+      "width": 768,
+      "height": 768,
+      "alt": {
+        "en": "Gaeng liang soup with shrimp and mixed vegetables",
+        "th": "แกงเลียงใส่กุ้งและผักหลากชนิด"
+      },
+      "credit": {
+        "name": "แกงเลียง.jpg — Phuphiphat Phumi. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:%E0%B9%81%E0%B8%81%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%87.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B9%81%E0%B8%81%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%87.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "khao-kriap-pak-mo",
+  "name": {
+    "en": "Khao kriap pak mo",
+    "th": "ข้าวเกรียบปากหม้อ"
+  },
+  "description": {
+    "en": "Delicate steamed rice-flour sheets folded around a sweet-savoury pork and peanut filling.",
+    "th": "แผ่นแป้งข้าวเจ้านึ่งบางห่อไส้หมูและถั่วลิสงรสเค็มหวาน"
+  },
+  "photos": [
+    {
+      "path": "/photos/khao-kriap-pak-mo.jpg",
+      "width": 960,
+      "height": 636,
+      "alt": {
+        "en": "White steamed rice-sheet dumplings beside round tapioca dumplings",
+        "th": "ข้าวเกรียบปากหม้อสีขาวเคียงสาคูไส้หมูทรงกลม"
+      },
+      "credit": {
+        "name": "Sakhu Sai Mu and Khao Kriap Pak Mo.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Sakhu_Sai_Mu_and_Khao_Kriap_Pak_Mo.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sakhu_Sai_Mu_and_Khao_Kriap_Pak_Mo.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

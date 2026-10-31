@@ -1,0 +1,31 @@
+{
+  "id": "tom-kha-gai",
+  "name": {
+    "en": "Tom kha gai",
+    "th": "ต้มข่าไก่"
+  },
+  "description": {
+    "en": "Chicken in a coconut soup flavoured with galangal, lemongrass and lime.",
+    "th": "ไก่ต้มในน้ำกะทิ หอมข่าและตะไคร้ ปรุงรสเปรี้ยวด้วยมะนาว"
+  },
+  "photos": [
+    {
+      "path": "/photos/tom-kha-gai.jpg",
+      "width": 960,
+      "height": 720,
+      "alt": {
+        "en": "White coconut chicken soup with herbs in a square bowl",
+        "th": "ต้มข่าไก่น้ำกะทิสีขาวใส่สมุนไพรในชามสี่เหลี่ยม"
+      },
+      "credit": {
+        "name": "Tom Kha Kai in Phra Nakhon District, Bangkok, Thailand.jpg — Globe-trotter. Resized and JPEG re-encoded; no crop. User: (WT-shared) Globe-trotter at  wts wikivoyage",
+        "url": "https://commons.wikimedia.org/wiki/File:Tom_Kha_Kai_in_Phra_Nakhon_District,_Bangkok,_Thailand.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Kha_Kai_in_Phra_Nakhon_District,_Bangkok,_Thailand.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}
