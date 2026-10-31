@@ -19,7 +19,7 @@
     "build": "wrangler deploy --env= --dry-run --outdir dist",
     "build:production": "wrangler deploy --env production --dry-run --outdir dist-production",
     "smoke": "bun scripts/smoke.ts",
-    "deploy": "wrangler deploy --env production"
+    "deploy": "wrangler deploy --env production --var \"APP_REVISION:${WORKERS_CI_COMMIT_SHA:-local}\" && bun run smoke https://rhanthai.supakorn.me \"${WORKERS_CI_COMMIT_SHA:-local}\""
   },
   "dependencies": {
     "@elysia/openapi": "1.4.16",
