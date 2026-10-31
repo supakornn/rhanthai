@@ -10,21 +10,21 @@
   },
   "photos": [
     {
-      "path": "/photos/som-tam.jpg",
-      "width": 960,
-      "height": 720,
+      "path": "/photos/som-tam.webp",
+      "width": 1280,
+      "height": 960,
       "alt": {
-        "en": "Shredded green papaya salad with tomato and chili on a plate",
-        "th": "ส้มตำมะละกอดิบใส่มะเขือเทศและพริกบนจาน"
+        "en": "Som tam with shredded green papaya, carrot, tomatoes, peanuts, and lime on a blue-rimmed plate.",
+        "th": "ส้มตำมะละกอใส่แครอต มะเขือเทศ ถั่วลิสง และมะนาว บนจานขอบสีน้ำเงิน"
       },
       "credit": {
-        "name": "Som Tam green papaya salad, Bangkok, Thailand.jpg — Vyacheslav Argenberg. Resized and JPEG re-encoded; no crop. © Vyacheslav Argenberg",
-        "url": "https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg"
+        "name": "Som tam — lazy fri13th (resized and converted to WebP)",
+        "url": "https://www.flickr.com/photos/fri13th/"
       },
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Som_Tam_green_papaya_salad,_Bangkok,_Thailand.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Som_tam.jpg",
       "license": {
-        "name": "CC BY 4.0",
-        "url": "https://creativecommons.org/licenses/by/4.0/"
+        "name": "CC BY 2.0",
+        "url": "https://creativecommons.org/licenses/by/2.0/"
       }
     }
   ]

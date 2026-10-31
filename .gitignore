@@ -1,11 +1,62 @@
+# Dependencies and package-manager caches
 node_modules/
+.bun/
+.npm/
+.pnpm-store/
+
+# Build output and tooling caches
 dist/
 dist-production/
 .wrangler/
+.cache/
+*.tsbuildinfo
+.eslintcache
+.stylelintcache
+
+# Test coverage and reports
 coverage/
+.nyc_output/
+.vitest/
+test-results/
+playwright-report/
+blob-report/
+
+# Local environment and credentials
 .env*
 !.env.example
 .dev.vars*
 !.dev.vars.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Logs and diagnostic dumps
 *.log
+*.cpuprofile
+*.heapprofile
+*.heapsnapshot
+
+# Editors and IDEs
+.idea/
+.vscode/
+.fleet/
+.history/
+*.iml
+*.suo
+*.user
+*.swp
+*.swo
+*~
+
+# Operating-system files
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

@@ -2,6 +2,7 @@ import { cp, mkdtemp, readFile, rm } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { afterAll, beforeAll, describe, expect, it } from "vitest";
+import { imageSize } from "image-size";
 import { type Unstable_DevWorker, unstable_dev } from "wrangler";
 
 import { createContractValidators } from "../../scripts/api-contract";
@@ -35,25 +36,32 @@ beforeAll(async () => {
 }, 30_000);
 afterAll(async () => {
   await server?.stop();
-  if (assets) await rm(assets, { recursive: true, force: true });
+  if (assets) {
+    await rm(assets, { recursive: true, force: true });
+  }
 });
 
 describe("real Wrangler routing", () => {
   it("passes the deployment smoke checker against a real local Worker", async () => {
-    // Exercise production-like HTTPS photo URLs without relaxing the OpenAPI
-    // contract; route transport to this ephemeral real Worker and its assets.
     const result = await runSmoke(publicOrigin, {
-      fetchImpl: (input, init) => {
-        const url = new URL(
-          input instanceof Request ? input.url : String(input),
-        );
-        return fetch(
-          `http://${server.address}:${server.port}${url.pathname}${url.search}`,
-          init,
-        );
-      },
       attempts: 1,
       revision: "local",
+      // Route the configured public origin through the real local HTTP server.
+      fetchImpl: (input, init) => {
+        const url = new URL(
+          typeof input === "string"
+            ? input
+            : input instanceof URL
+              ? input.href
+              : input.url,
+        );
+        const local = new URL(
+          `${url.pathname}${url.search}`,
+          `http://${server.address}:${server.port}`,
+        );
+
+        return fetch(local, init);
+      },
     });
     expect(result).toEqual({ photoChecked: true });
   });
@@ -64,9 +72,11 @@ describe("real Wrangler routing", () => {
     expect((await response.arrayBuffer()).byteLength).toBeGreaterThan(20);
     expect(response.headers.get("cache-control")).not.toBe("no-store");
   });
-  it("serves a researched photo byte-for-byte from Static Assets", async () => {
+  it("serves a catalogue photo byte-for-byte from Static Assets", async () => {
     const photo = catalogue.flatMap((food) => food.photos)[0];
-    if (!photo) throw new Error("Expected a researched catalogue photo");
+    if (!photo) {
+      throw new Error("Expected a published catalogue photo");
+    }
     const response = await server.fetch(photo.path);
     expect(response.status).toBe(200);
     expect(response.headers.get("content-type")).toContain("image/jpeg");
@@ -83,6 +93,22 @@ describe("real Wrangler routing", () => {
       await readFile("public/photo-credits.txt", "utf8"),
     );
   });
+  it.each(["khao-soi", "pad-thai", "som-tam"])(
+    "serves the published %s photo as a static asset",
+    async (id) => {
+      const response = await server.fetch(`/photos/${id}.webp`);
+      expect(response.status).toBe(200);
+      expect(response.headers.get("content-type")).toContain("image/webp");
+      const bytes = new Uint8Array(await response.arrayBuffer());
+      expect(imageSize(bytes)).toMatchObject({
+        width: 1280,
+        height: 960,
+        type: "webp",
+      });
+      expect(bytes.byteLength).toBeLessThan(250_000);
+      expect(response.headers.get("cache-control")).not.toBe("no-store");
+    },
+  );
   it("serves the API alongside assets without SPA fallback", async () => {
     const response = await server.fetch("/api/v1/foods");
     expect(response.status).toBe(200);

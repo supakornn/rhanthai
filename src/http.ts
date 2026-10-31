@@ -1,4 +1,5 @@
 const methods = "GET, HEAD, OPTIONS";
+
 export const apiHeaders = {
   "Content-Type": "application/json; charset=utf-8",
   "Access-Control-Allow-Origin": "*",
@@ -16,6 +17,7 @@ export function json(
     headers: { ...apiHeaders, ...headers },
   });
 }
+
 export function errorResponse(
   status: number,
   code: string,
@@ -24,8 +26,9 @@ export function errorResponse(
 ): Response {
   return json({ error: { code, message } }, status, headers);
 }
+
 export function methodResponse(method: string): Response | undefined {
-  if (method === "OPTIONS")
+  if (method === "OPTIONS") {
     return new Response(null, {
       status: 204,
       headers: {
@@ -33,12 +36,15 @@ export function methodResponse(method: string): Response | undefined {
         "Access-Control-Allow-Methods": methods,
       },
     });
+  }
+
   if (method !== "GET" && method !== "HEAD") {
     return errorResponse(405, "METHOD_NOT_ALLOWED", "Method not allowed.", {
       Allow: methods,
     });
   }
 }
+
 export function withoutBody(response: Response): Response {
   return new Response(null, {
     status: response.status,

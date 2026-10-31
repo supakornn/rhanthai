@@ -41,13 +41,18 @@ function fakeApi(
       "Cache-Control": "no-store",
       "X-RhanThai-Revision": options.revision ?? "test",
     };
-    if (url.pathname.startsWith("/photos/"))
+    if (url.pathname.startsWith("/photos/")) {
       return new Response("image", {
         headers: { "Content-Type": "image/png" },
       });
-    if (options.broken) return new Response("broken", { status: 503 });
-    if (options.malformed) return Response.json({ data: "bad" }, { headers });
-    if (url.searchParams.get("lang") === "invalid")
+    }
+    if (options.broken) {
+      return new Response("broken", { status: 503 });
+    }
+    if (options.malformed) {
+      return Response.json({ data: "bad" }, { headers });
+    }
+    if (url.searchParams.get("lang") === "invalid") {
       return Response.json(
         {
           error: {
@@ -57,12 +62,14 @@ function fakeApi(
         },
         { status: 400, headers },
       );
-    if (url.pathname.endsWith("/__smoke_missing__"))
+    }
+    if (url.pathname.endsWith("/__smoke_missing__")) {
       return Response.json(
         { error: { code: "FOOD_NOT_FOUND", message: "Food not found." } },
         { status: 404, headers },
       );
-    if (url.pathname === "/api/v1/foods")
+    }
+    if (url.pathname === "/api/v1/foods") {
       return Response.json(
         {
           data: [food],
@@ -70,6 +77,7 @@ function fakeApi(
         },
         { headers },
       );
+    }
     return Response.json({ data: food }, { headers });
   }) as typeof fetch;
 }
@@ -79,8 +87,9 @@ describe("deployment smoke checker", () => {
     const fetchImpl = (async (...args: Parameters<typeof fetch>) => {
       const response = await fakeApi()(...args);
       const url = new URL(String(args[0]));
-      if (response.status !== 200 || url.pathname !== "/api/v1/foods")
+      if (response.status !== 200 || url.pathname !== "/api/v1/foods") {
         return response;
+      }
       const body = (await response.json()) as {
         data: Record<string, unknown>[];
         pagination: Record<string, number>;
