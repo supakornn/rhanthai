@@ -60,7 +60,7 @@ export function createApp(
     .use(
       openapi({
         provider: "scalar",
-        exclude: { methods: [] },
+        exclude: { methods: ["head", "options"] },
         path: "/openapi",
         specPath: "/openapi/json",
         openapiVersion: "3.1.2",

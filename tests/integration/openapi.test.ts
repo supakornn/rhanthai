@@ -34,7 +34,7 @@ describe("Scalar API documentation", () => {
     expect(html).not.toContain("@latest");
   });
 
-  it("generates schemas, queries, statuses, and read-only operations", async () => {
+  it("generates schemas, queries, and statuses with only GET operations", async () => {
     const response = await api.fetch("https://example.test/openapi/json");
     const spec = (await response.json()) as {
       openapi: string;
@@ -58,16 +58,8 @@ describe("Scalar API documentation", () => {
     const list = spec.paths["/api/v1/foods"];
     const detail = spec.paths["/api/v1/foods/{id}"];
 
-    expect(Object.keys(list ?? {}).toSorted()).toEqual([
-      "get",
-      "head",
-      "options",
-    ]);
-    expect(Object.keys(detail ?? {}).toSorted()).toEqual([
-      "get",
-      "head",
-      "options",
-    ]);
+    expect(Object.keys(list ?? {})).toEqual(["get"]);
+    expect(Object.keys(detail ?? {})).toEqual(["get"]);
     expect(list?.get?.parameters.map((parameter) => parameter.name)).toEqual([
       "lang",
       "page",
