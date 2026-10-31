@@ -46,6 +46,10 @@ bun run test
 
 Food records are stored in `data/foods/`; photos are served from `public/photos/`.
 
+## Deployment
+
+Cloudflare Workers Builds runs the configured build checks and deploys `main`. Use `bun run deploy` as the deploy command; it deploys the production configuration and smoke-checks the released revision. GitHub Actions runs quality checks only and needs no Cloudflare credentials.
+
 ## Contributing
 
 Contributions are welcome. Include English and Thai translations for new foods, verify photo reuse rights, and run the checks above before submitting a pull request.
