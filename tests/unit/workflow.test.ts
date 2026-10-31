@@ -3,7 +3,7 @@ import { describe, expect, it } from "vitest";
 import { parse } from "yaml";
 
 const workflow = parse(await readFile(".github/workflows/ci.yml", "utf8"));
-describe("deployment security boundaries", () => {
+describe("GitHub CI security boundaries", () => {
   it("runs checks on PRs and main pushes without secrets", () => {
     expect(workflow.on).toEqual({
       pull_request: null,
@@ -25,23 +25,10 @@ describe("deployment security boundaries", () => {
       expect(quality).toContain(command);
     }
   });
-  it("only deploys checked main pushes using the production environment", () => {
-    const deploy = workflow.jobs.deploy;
-    expect(deploy.needs).toBe("quality");
-    expect(deploy.if).toBe(
-      "github.event_name == 'push' && github.ref == 'refs/heads/main'",
-    );
-    expect(deploy.environment).toBe("production");
-    expect(deploy.concurrency["cancel-in-progress"]).toBe(false);
-    const commands = deploy.steps
-      .filter((step: { run?: string }) => step.run)
-      .map((step: { run: string }) => step.run)
-      .join("\n");
-    expect(commands).toContain(
-      'bun run deploy --message "$GITHUB_SHA" --var "APP_REVISION:$GITHUB_SHA"',
-    );
-    expect(commands).toContain(
-      'bun run smoke https://rhanthai.supakorn.me "$GITHUB_SHA"',
+  it("only runs quality checks and leaves deployment to Cloudflare", () => {
+    expect(Object.keys(workflow.jobs)).toEqual(["quality"]);
+    expect(JSON.stringify(workflow)).not.toMatch(
+      /secrets\.|CLOUDFLARE_API_TOKEN|CLOUDFLARE_ACCOUNT_ID|bun run deploy/,
     );
   });
   it("pins all Actions and does not bypass failing checks", () => {
