@@ -1,11 +1,11 @@
-import SwaggerParser from "@apidevtools/swagger-parser";
 import Ajv from "ajv";
 import addFormats from "ajv-formats";
 import type { listFoods } from "../src/foods";
 import type { Food } from "../src/schemas";
+import { validateApi } from "./validate-api";
 
-export async function createContractValidators(path = "openapi.yaml") {
-  const document = await SwaggerParser.validate(path);
+export async function createContractValidators() {
+  const document = await validateApi();
 
   if (!("components" in document) || !document.components?.schemas) {
     throw new Error("Missing OpenAPI schemas");
