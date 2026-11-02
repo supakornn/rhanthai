@@ -50,6 +50,8 @@ Food records are stored in `data/foods/`; photos are served from `public/photos/
 
 Cloudflare Workers Builds runs the configured build checks and deploys `main`. Use `bun run deploy` as the deploy command; it deploys the production configuration and smoke-checks the released revision. GitHub Actions runs quality checks only and needs no Cloudflare credentials.
 
+Keep **Enable Preview Builds** on and use `npx wrangler preview` as the Preview command. The `previews` configuration sets `PUBLIC_ORIGIN` to `request`, which makes photo URLs use each preview request's own origin. Production keeps its fixed origin and custom domain; previews serve their branch's assets without deploying production. Once this configuration is merged, rebase existing PRs to include it before retrying their preview builds.
+
 ## Contributing
 
 Contributions are welcome. Include English and Thai translations for new foods, verify photo reuse rights, and run the checks above before submitting a pull request.

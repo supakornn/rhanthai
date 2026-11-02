@@ -9,7 +9,12 @@ const bindings = env as unknown as {
 
 const app = createApp(
   () => catalogue,
-  () => {
+  (request) => {
+    // Only previews opt in; production keeps its configured canonical origin.
+    if (bindings.PUBLIC_ORIGIN === "request") {
+      return new URL(request.url).origin;
+    }
+
     if (!bindings.PUBLIC_ORIGIN) {
       throw new Error("PUBLIC_ORIGIN must be configured");
     }
