@@ -23,7 +23,7 @@ import {
 
 export function createApp(
   loadFoods: () => readonly StoredFood[],
-  publicOrigin: () => string,
+  publicOrigin: (request: Request) => string,
 ) {
   const respond = (request: Request, id?: string) => {
     const method = methodResponse(request.method);
@@ -39,13 +39,13 @@ export function createApp(
     const foods = loadFoods();
 
     if (id === undefined) {
-      return json(listFoods(foods, query, publicOrigin()));
+      return json(listFoods(foods, query, publicOrigin(request)));
     }
 
     const food = findFood(foods, id);
 
     return food
-      ? json({ data: localizeFood(food, query.lang, publicOrigin()) })
+      ? json({ data: localizeFood(food, query.lang, publicOrigin(request)) })
       : errorResponse(404, "FOOD_NOT_FOUND", "Food not found.");
   };
 

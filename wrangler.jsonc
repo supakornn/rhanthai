@@ -8,6 +8,11 @@
   "vars": {
     "PUBLIC_ORIGIN": "http://localhost:8787",
   },
+  "previews": {
+    "vars": {
+      "PUBLIC_ORIGIN": "request",
+    },
+  },
   "assets": {
     "directory": "./public",
     "run_worker_first": ["/api/*"],
