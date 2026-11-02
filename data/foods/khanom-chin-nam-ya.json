@@ -1,0 +1,31 @@
+{
+  "id": "khanom-chin-nam-ya",
+  "name": {
+    "en": "Khanom chin nam ya",
+    "th": "ขนมจีนน้ำยา"
+  },
+  "description": {
+    "en": "Rice noodles topped with a coconut fish curry sauce, served with vegetables.",
+    "th": "ขนมจีนราดน้ำแกงกะทิผสมเนื้อปลาบด รับประทานกับผัก"
+  },
+  "photos": [
+    {
+      "path": "/photos/khanom-chin-nam-ya.jpg",
+      "width": 960,
+      "height": 960,
+      "alt": {
+        "en": "Rice noodles, fish curry sauce and vegetables packed in bags on a plate",
+        "th": "ขนมจีน น้ำยาปลา และผักบรรจุถุงวางบนจาน"
+      },
+      "credit": {
+        "name": "2017 0426 Khanom chin nam ya Ayutthaya market 01.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:2017_0426_Khanom_chin_nam_ya_Ayutthaya_market_01.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017_0426_Khanom_chin_nam_ya_Ayutthaya_market_01.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

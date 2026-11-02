@@ -1,0 +1,31 @@
+{
+  "id": "khanom-khai-tao",
+  "name": {
+    "en": "Khanom khai tao",
+    "th": "ขนมไข่เต่า"
+  },
+  "description": {
+    "en": "Small fried sweet-potato dough balls with a crisp shell and chewy centre.",
+    "th": "แป้งผสมมันเทศปั้นเป็นลูกเล็กทอดให้ผิวนอกกรอบ เนื้อในเหนียวนุ่ม"
+  },
+  "photos": [
+    {
+      "path": "/photos/khanom-khai-tao.jpg",
+      "width": 960,
+      "height": 715,
+      "alt": {
+        "en": "Round golden fried sweet-potato balls in a paper bag",
+        "th": "ขนมไข่เต่าทอดสีเหลืองทองในถุงกระดาษ"
+      },
+      "credit": {
+        "name": "ขนมไข่นกกระทา.jpg — ยุทธนาสาระขันธ์. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%99%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B2.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "pad-see-ew",
+  "name": {
+    "en": "Pad see ew",
+    "th": "ผัดซีอิ๊ว"
+  },
+  "description": {
+    "en": "Wide rice noodles stir-fried with soy sauce, egg, Chinese broccoli and meat.",
+    "th": "เส้นใหญ่ผัดซีอิ๊วกับไข่ คะน้า และเนื้อสัตว์"
+  },
+  "photos": [
+    {
+      "path": "/photos/pad-see-ew.jpg",
+      "width": 960,
+      "height": 640,
+      "alt": {
+        "en": "Wide soy-sauce fried rice noodles with meat and greens",
+        "th": "ผัดซีอิ๊วเส้นใหญ่ใส่เนื้อสัตว์และผัก"
+      },
+      "credit": {
+        "name": "Pad See Ew - Bangkok.jpg — Vee Satayamas. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Pad_See_Ew_-_Bangkok.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pad_See_Ew_-_Bangkok.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

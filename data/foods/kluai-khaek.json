@@ -1,0 +1,31 @@
+{
+  "id": "kluai-khaek",
+  "name": {
+    "en": "Kluai khaek",
+    "th": "กล้วยแขก"
+  },
+  "description": {
+    "en": "Banana slices coated in a coconut and sesame batter and fried until crisp.",
+    "th": "กล้วยหั่นชุบแป้งผสมมะพร้าวและงา ทอดจนกรอบ"
+  },
+  "photos": [
+    {
+      "path": "/photos/kluai-khaek.jpg",
+      "width": 960,
+      "height": 960,
+      "alt": {
+        "en": "Golden battered fried banana pieces on a dark plate",
+        "th": "กล้วยแขกชุบแป้งทอดสีเหลืองทองบนจานสีเข้ม"
+      },
+      "credit": {
+        "name": "Kluai thot.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Kluai_thot.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kluai_thot.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

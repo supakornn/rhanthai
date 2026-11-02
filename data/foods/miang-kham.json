@@ -1,0 +1,31 @@
+{
+  "id": "miang-kham",
+  "name": {
+    "en": "Miang kham",
+    "th": "เมี่ยงคำ"
+  },
+  "description": {
+    "en": "Leaf-wrapped bites of toasted coconut, ginger, lime and other fillings with a sweet-savoury sauce.",
+    "th": "ใบชะพลูห่อมะพร้าวคั่ว ขิง มะนาว และเครื่องเมี่ยง ราดน้ำเมี่ยงรสหวานเค็ม"
+  },
+  "photos": [
+    {
+      "path": "/photos/miang-kham.jpg",
+      "width": 960,
+      "height": 720,
+      "alt": {
+        "en": "Miang kham leaves and fillings arranged in small bowls on a tray",
+        "th": "ใบเมี่ยงคำและเครื่องเคียงในถ้วยเล็กจัดบนถาด"
+      },
+      "credit": {
+        "name": "Miang kham platter.jpg — Jpatokal. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Miang_kham_platter.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miang_kham_platter.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

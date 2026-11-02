@@ -1,0 +1,31 @@
+{
+  "id": "khanom-phing",
+  "name": {
+    "en": "Khanom phing",
+    "th": "ขนมผิง"
+  },
+  "description": {
+    "en": "Tiny baked tapioca-starch cookies with coconut milk that crumble in the mouth.",
+    "th": "ขนมอบชิ้นเล็กจากแป้งมันและกะทิ เนื้อร่วนละลายในปาก"
+  },
+  "photos": [
+    {
+      "path": "/photos/khanom-phing.jpg",
+      "width": 960,
+      "height": 871,
+      "alt": {
+        "en": "Small pale khanom phing cookies in a clear container",
+        "th": "ขนมผิงเม็ดเล็กสีอ่อนในภาชนะใส"
+      },
+      "credit": {
+        "name": "ขนมผิง.jpg — ยุทธนาสาระขันธ์. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%9C%E0%B8%B4%E0%B8%87.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%9C%E0%B8%B4%E0%B8%87.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

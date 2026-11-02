@@ -1,0 +1,31 @@
+{
+  "id": "gaeng-som",
+  "name": {
+    "en": "Gaeng som",
+    "th": "แกงส้ม"
+  },
+  "description": {
+    "en": "A tangy curry with vegetables and fish or shrimp, commonly soured with tamarind.",
+    "th": "แกงรสเปรี้ยวใส่ผักกับปลาหรือกุ้ง มักใช้มะขามเปียกปรุงรส"
+  },
+  "photos": [
+    {
+      "path": "/photos/gaeng-som.jpg",
+      "width": 959,
+      "height": 960,
+      "alt": {
+        "en": "Sour orange curry with shrimp and vegetables",
+        "th": "แกงส้มใส่กุ้งและผัก"
+      },
+      "credit": {
+        "name": "Kaeng som kung.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Kaeng_som_kung.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaeng_som_kung.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

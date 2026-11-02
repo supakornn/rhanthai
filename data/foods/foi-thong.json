@@ -1,0 +1,31 @@
+{
+  "id": "foi-thong",
+  "name": {
+    "en": "Foi thong",
+    "th": "ฝอยทอง"
+  },
+  "description": {
+    "en": "Fine golden threads of sweetened egg yolk gathered into small bundles.",
+    "th": "ขนมไข่แดงเป็นเส้นฝอยสีทองรสหวาน จัดเป็นแพหรือจับเป็นคำ"
+  },
+  "photos": [
+    {
+      "path": "/photos/foi-thong.jpg",
+      "width": 960,
+      "height": 960,
+      "alt": {
+        "en": "Golden foi thong egg-yolk threads on a small plate",
+        "th": "ฝอยทองสีเหลืองทองบนจานเล็ก"
+      },
+      "credit": {
+        "name": "Foi thong.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Foi_thong.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Foi_thong.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

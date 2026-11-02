@@ -1,0 +1,31 @@
+{
+  "id": "tod-man-pla",
+  "name": {
+    "en": "Tod man pla",
+    "th": "ทอดมันปลา"
+  },
+  "description": {
+    "en": "Springy fish cakes mixed with red curry paste and sliced beans, then deep-fried.",
+    "th": "เนื้อปลาบดเหนียวผสมพริกแกงแดงและถั่วฝักยาวซอย ปั้นทอดเป็นชิ้น"
+  },
+  "photos": [
+    {
+      "path": "/photos/tod-man-pla.jpg",
+      "width": 960,
+      "height": 643,
+      "alt": {
+        "en": "A pile of reddish fried fish cakes with herbs at a market stall",
+        "th": "ทอดมันปลาสีแดงน้ำตาลกองกับสมุนไพรที่แผงอาหาร"
+      },
+      "credit": {
+        "name": "Thanin market tod man pla.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Thanin_market_tod_man_pla.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thanin_market_tod_man_pla.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

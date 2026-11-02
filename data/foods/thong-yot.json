@@ -1,0 +1,31 @@
+{
+  "id": "thong-yot",
+  "name": {
+    "en": "Thong yot",
+    "th": "ทองหยอด"
+  },
+  "description": {
+    "en": "Small golden egg-yolk sweets formed as rounded drops.",
+    "th": "ขนมไข่แดงสีเหลืองทองหยอดเป็นเม็ดกลมเล็ก"
+  },
+  "photos": [
+    {
+      "path": "/photos/thong-yot.jpg",
+      "width": 743,
+      "height": 935,
+      "alt": {
+        "en": "Small golden thong yot egg-yolk drops on a patterned dish",
+        "th": "ทองหยอดเม็ดเล็กสีเหลืองทองในจานลาย"
+      },
+      "credit": {
+        "name": "ขนมทองหยอด.jpg — Praewdu. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A2%E0%B8%AD%E0%B8%94.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A2%E0%B8%AD%E0%B8%94.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

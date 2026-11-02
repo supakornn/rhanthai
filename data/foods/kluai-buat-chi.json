@@ -1,0 +1,31 @@
+{
+  "id": "kluai-buat-chi",
+  "name": {
+    "en": "Kluai buat chi",
+    "th": "กล้วยบวชชี"
+  },
+  "description": {
+    "en": "Bananas gently cooked in sweetened coconut milk with a touch of salt.",
+    "th": "กล้วยต้มในน้ำกะทิใส่น้ำตาลและเกลือเล็กน้อย"
+  },
+  "photos": [
+    {
+      "path": "/photos/kluai-buat-chi.jpg",
+      "width": 960,
+      "height": 825,
+      "alt": {
+        "en": "Banana pieces in white coconut milk on a glass dish",
+        "th": "กล้วยบวชชีในน้ำกะทิสีขาวบนจานแก้ว"
+      },
+      "credit": {
+        "name": "Kluai buat chi.jpg — Susan Slater. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Kluai_buat_chi.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kluai_buat_chi.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

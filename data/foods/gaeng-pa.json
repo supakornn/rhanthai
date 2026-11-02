@@ -1,0 +1,31 @@
+{
+  "id": "gaeng-pa",
+  "name": {
+    "en": "Gaeng pa",
+    "th": "แกงป่า"
+  },
+  "description": {
+    "en": "A spicy, broth-based curry with vegetables and meat, fragrant with herbs and peppercorns.",
+    "th": "แกงน้ำใสรสเผ็ด ใส่ผักและเนื้อสัตว์ หอมสมุนไพรและพริกไทยอ่อน"
+  },
+  "photos": [
+    {
+      "path": "/photos/gaeng-pa.jpg",
+      "width": 960,
+      "height": 640,
+      "alt": {
+        "en": "Fish jungle curry over rice with fresh herbs and lime",
+        "th": "แกงป่าปลาราดข้าว โรยสมุนไพรสดเคียงมะนาว"
+      },
+      "credit": {
+        "name": "Fish Jungle Curry (8644200729).jpg — Charles Haynes. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Fish_Jungle_Curry_(8644200729).jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fish_Jungle_Curry_(8644200729).jpg",
+      "license": {
+        "name": "CC BY-SA 2.0",
+        "url": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
+    }
+  ]
+}

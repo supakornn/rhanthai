@@ -1,0 +1,31 @@
+{
+  "id": "mu-ping",
+  "name": {
+    "en": "Moo ping",
+    "th": "หมูปิ้ง"
+  },
+  "description": {
+    "en": "Marinated pork threaded onto skewers and grilled with a sweet-savoury glaze.",
+    "th": "หมูหมักรสเค็มหวานเสียบไม้ย่างจนหอม"
+  },
+  "photos": [
+    {
+      "path": "/photos/mu-ping.jpg",
+      "width": 960,
+      "height": 720,
+      "alt": {
+        "en": "Pork skewers browning on a wire grill",
+        "th": "หมูปิ้งเสียบไม้กำลังย่างบนตะแกรง"
+      },
+      "credit": {
+        "name": "Mu ping.jpg — Phoebus 28. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Mu_ping.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mu_ping.jpg",
+      "license": {
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "gaeng-jued",
+  "name": {
+    "en": "Gaeng jued",
+    "th": "แกงจืด"
+  },
+  "description": {
+    "en": "A gently seasoned clear soup with vegetables, often including pork, tofu or glass noodles.",
+    "th": "แกงน้ำใสรสอ่อนใส่ผัก มักใส่หมู เต้าหู้ หรือวุ้นเส้น"
+  },
+  "photos": [
+    {
+      "path": "/photos/gaeng-jued.jpg",
+      "width": 960,
+      "height": 642,
+      "alt": {
+        "en": "Clear gaeng jued soup with tofu and green vegetables",
+        "th": "แกงจืดน้ำใสใส่เต้าหู้และผักสีเขียว"
+      },
+      "credit": {
+        "name": "Tom jued tahoo.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Tom_jued_tahoo.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_jued_tahoo.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

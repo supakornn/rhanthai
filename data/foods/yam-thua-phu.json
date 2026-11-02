@@ -1,0 +1,31 @@
+{
+  "id": "yam-thua-phu",
+  "name": {
+    "en": "Yam thua phu",
+    "th": "ยำถั่วพู"
+  },
+  "description": {
+    "en": "Sliced wing beans tossed in a chilli-paste and coconut dressing, often with shrimp.",
+    "th": "ถั่วพูซอยคลุกน้ำยำพริกเผากะทิ มักใส่กุ้ง"
+  },
+  "photos": [
+    {
+      "path": "/photos/yam-thua-phu.jpg",
+      "width": 960,
+      "height": 630,
+      "alt": {
+        "en": "Winged-bean salad with sliced egg and a dark garnish",
+        "th": "ยำถั่วพูเคียงไข่หั่นและเครื่องโรยสีเข้ม"
+      },
+      "credit": {
+        "name": "Yam thua phu.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Yam_thua_phu.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yam_thua_phu.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ho-mok-pla",
+  "name": {
+    "en": "Ho mok pla",
+    "th": "ห่อหมกปลา"
+  },
+  "description": {
+    "en": "Fish mixed with red curry paste and coconut milk, steamed into a soft savoury custard.",
+    "th": "ปลาเคล้าพริกแกงแดงและกะทิ นึ่งให้เนื้อจับตัวนุ่ม"
+  },
+  "photos": [
+    {
+      "path": "/photos/ho-mok-pla.jpg",
+      "width": 960,
+      "height": 960,
+      "alt": {
+        "en": "Steamed fish curry in leaf cups topped with coconut cream",
+        "th": "ห่อหมกปลาในกระทงใบตองราดหน้ากะทิ"
+      },
+      "credit": {
+        "name": "Ho mok pla.JPG — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Ho_mok_pla.JPG"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ho_mok_pla.JPG",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}

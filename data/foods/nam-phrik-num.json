@@ -1,0 +1,31 @@
+{
+  "id": "nam-phrik-num",
+  "name": {
+    "en": "Nam phrik num",
+    "th": "น้ำพริกหนุ่ม"
+  },
+  "description": {
+    "en": "Roasted green chillies pounded with shallots and garlic into a coarse dip, served with vegetables.",
+    "th": "พริกหนุ่มย่างโขลกกับหอมแดงและกระเทียมเป็นน้ำพริกเนื้อหยาบ รับประทานกับผัก"
+  },
+  "photos": [
+    {
+      "path": "/photos/nam-phrik-num.jpg",
+      "width": 960,
+      "height": 959,
+      "alt": {
+        "en": "Green chili dip in a small red-rimmed bowl",
+        "th": "น้ำพริกหนุ่มในถ้วยเล็กขอบสีแดง"
+      },
+      "credit": {
+        "name": "Nam phrik num.jpg — Takeaway. Resized and JPEG re-encoded; no crop.",
+        "url": "https://commons.wikimedia.org/wiki/File:Nam_phrik_num.jpg"
+      },
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nam_phrik_num.jpg",
+      "license": {
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      }
+    }
+  ]
+}
